@@ -1,0 +1,119 @@
+id: volumn6-the-collected-works-of-l-s-vygotsky
+title: 'The Collected Works of L. S. Vygotsky, Vol. 6: Scientific Legacy'
+author: L. S. Vygotsky
+domain:
+- cultural-historical-psychology
+- child-development
+- psychology-of-emotions
+period: 1920-1934
+key_concepts:
+- tool-and-sign
+- higher-mental-functions
+- egocentric-speech
+- internalization
+- zone-of-proximal-development
+- practical-intellect
+- sign-mediation
+- Spinozian-monism
+- non-classical-psychology
+- sociodeterminism
+- dialectical-method
+- symbolic-activity
+- perception-and-speech
+- actor's-creative-work
+- James-Lange-theory
+key_figures:
+- L. S. Vygotsky
+- W. Köhler
+- K. Bühler
+- J. Piaget
+- B. Spinoza
+- R. Descartes
+- W. James
+- C. Lange
+- W. Cannon
+- K. Stanislavsky
+- D. Diderot
+- A. A. Potebnya
+- M. Yaroshevsky
+chapter_outline:
+- title: Prologue
+  line_range:
+  - 1
+  - 100
+  summary: 'Dorothy Robbins introduces Vygotsky''s non-classical psychology, Spinozian
+    monism, and the volume''s three sections: tool and sign, emotions, and actor''s
+    psychology.'
+- title: 'Tool and Sign in the Development of the Child: Chapter 1 - The Problem of
+    Practical Intellect in the Psychology of Animals and the Psychology of the Child'
+  line_range:
+  - 101
+  - 400
+  summary: Critiques zoological approaches to child psychology; reviews experiments
+    by Köhler and Bühler; argues that speech fundamentally transforms practical intellect,
+    distinguishing human from ape behavior.
+- title: 'Tool and Sign in the Development of the Child: Chapter 2 - The Function
+    of Signs in the Development of Higher Mental Processes'
+  line_range:
+  - 401
+  - 700
+  summary: Examines how signs (especially speech) reorganize perception, memory, and
+    attention; higher mental functions are not direct continuations of elementary
+    ones but involve qualitative restructuring.
+- title: 'Tool and Sign in the Development of the Child: Chapter 3 - Sign Operations
+    and Organization of Mental Processes'
+  line_range:
+  - 701
+  - 1000
+  summary: Discusses the social genesis of higher mental functions; signs arise from
+    social interaction and are internalized; basic rules of development include transition
+    from intermental to intramental.
+- title: 'Tool and Sign in the Development of the Child: Chapter 4 - Analysis of Sign
+    Operations of the Child'
+  line_range:
+  - 1001
+  - 1300
+  summary: Analyzes the structure and genetic development of sign operations; symbolic
+    activity is neither invented nor memorized but emerges through a complex process
+    involving play and speech.
+- title: 'Tool and Sign in the Development of the Child: Chapter 5 - Methods of Studying
+    Higher Mental Functions'
+  line_range:
+  - 1301
+  - 1500
+  summary: Proposes experimental methods for studying higher mental functions; emphasizes
+    the unity of word and act; concludes with the functional systems approach.
+- title: 'The Teaching about Emotions: Historical-Psychological Studies (Sections
+    1-20)'
+  line_range:
+  - 1501
+  - 2300
+  summary: Critiques James-Lange and Cartesian theories of emotions; argues for a
+    Spinozian monistic framework; emotions must be understood historically and developmentally,
+    not as mere physiological reactions.
+- title: On the Problem of the Psychology of the Actor's Creative Work
+  line_range:
+  - 2301
+  - 2500
+  summary: Examines Stanislavsky and Diderot's opposing views on acting; Vygotsky
+    seeks a synthesis beyond dualism, linking aesthetics and psychology; the actor's
+    emotions are a creative, mediated process.
+- title: Epilogue
+  line_range:
+  - 2501
+  - 2600
+  summary: Concludes the volume by returning to Vygotsky's aesthetic roots; emphasizes
+    the continuity of his thought from The Psychology of Art to his later works.
+- title: Notes to the Russian Edition / References / Indexes
+  line_range:
+  - 2601
+  - 2690
+  summary: Contains editorial notes, bibliography of Vygotsky's works, secondary literature,
+    and subject/author indexes.
+digestion_status: indexed
+worldline: α₁
+total_lines: 2690
+subdirectory: vygotsky-collected-works
+source_file: reference/vygotsky-collected-works/Volumn6 _The Collected Works of L.
+  S. Vygotsky .pdf.md
+status: acquired

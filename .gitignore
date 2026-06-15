@@ -1,0 +1,28 @@
+# .gitignore — psych-text-analysis
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+index/data/compiled-*.json
+index/data/*-prefix.txt
+
+# Logs
+*.log
+_cron_log.txt
+_download_log.txt

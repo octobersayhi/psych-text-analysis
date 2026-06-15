@@ -1,0 +1,82 @@
+---
+id: volumn-2-the-collected-works-of-l-s-vygotsky
+title: 'The Collected Works of L. S. Vygotsky, Volume 2: The Fundamentals of Defectology (Abnormal Psychology and Learning
+  Disabilities)'
+author: Lev Semenovich Vygotsky
+domain:
+- defectology
+- abnormal-child-psychology
+- special-education
+period: 1924-1934
+key_concepts:
+- defect-and-compensation
+- overcompensation
+- social-conditioning-of-development
+- qualitative-uniqueness-of-handicapped-development
+- cultural-development-in-abnormal-children
+- zone-of-proximal-development
+- psychological-tools
+- social-education
+- collective-as-factor-in-development
+- primary-vs-secondary-symptoms
+- motor-deficiency
+- practical-intellect
+- primitivism
+- inferiority-complex
+- conditional-reflex
+key_figures:
+- Alfred Adler
+- William Stern
+- Theodor Lipps
+- Ivan Pavlov
+- Helen Keller
+- A. E. Petrova
+- K. Buerklen
+- A. Petzeld
+- P. Ia. Troshin
+- A. N. Graborov
+- N. K. Krupskaia
+- I. A. Sokolianskii
+- N. A. Rau
+chapter_outline:
+- title: Foreword and Acknowledgments
+  line_range:
+  - 1
+  - 100
+  summary: 編輯說明：介紹本卷來源、翻譯原則、術語選擇（如defectology保留）、致謝。line_range為近似估計。
+- title: 'Vygotsky and Soviet Russian Defectology: An Introduction'
+  line_range:
+  - 101
+  - 250
+  summary: 譯者導論：詳述Vygotsky在蘇聯缺陷學領域的崛起、歷史背景、理論貢獻及後世影響。line_range為近似估計。
+- title: 'Part I: General Problems of Defectology - Introduction: Fundamental Problems of Defectology'
+  line_range:
+  - 251
+  - 400
+  summary: 核心論述：批判純量化缺陷觀，主張缺陷兒童發展的質性獨特性，提出補償、社會制約、文化發展等基本問題。line_range為近似估計。
+- title: 'Chapter 1: Defect and Compensation'
+  line_range:
+  - 401
+  - 500
+  summary: 論證缺陷與補償的辯證關係：缺陷刺激補償與過度補償，引用Adler、Lipps、Pavlov等理論，強調社會性補償。line_range為近似估計。
+- title: 'Chapter 2: Principles of Education for Physically Handicapped Children'
+  line_range:
+  - 501
+  - 580
+  summary: 批判舊式隔離教育，主張特殊教育應融入社會教育，以勞動和集體生活為核心，克服缺陷的社會後果。line_range為近似估計。
+- title: 'Chapter 3: The Psychology and Pedagogy of Children''s Handicaps'
+  line_range:
+  - 581
+  - 660
+  summary: 深入分析盲、聾、智障兒童的心理特點，強調缺陷的社會性本質，主張以社會補償取代生物補償。line_range為近似估計。
+- title: 'Part II: Special Problems of Defectology - The Blind Child'
+  line_range:
+  - 661
+  - 715
+  summary: 盲童心理發展：從神秘主義、樸素生物學到社會心理學階段，論證盲童通過語言和社會經驗實現補償。line_range為近似估計。
+digestion_status: pending
+worldline: α₁
+total_lines: 715
+subdirectory: vygotsky-collected-works
+source_file: reference/vygotsky-collected-works/Volumn 2_The Collected Works of L. S. Vygotsky .pdf.md
+status: acquired

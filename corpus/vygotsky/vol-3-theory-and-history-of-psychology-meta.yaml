@@ -1,0 +1,75 @@
+id: volumn-3-the-collected-works-of-l-s-vygotsky
+title: 'The Collected Works of L. S. Vygotsky, Volume 3: Problems of the Theory and
+  History of Psychology'
+author: L. S. Vygotsky
+domain:
+- history-of-psychology
+- soviet-psychology
+- psychological-theory
+period: 1920-1934
+key_concepts:
+- crisis in psychology
+- general science
+- cultural-historical theory
+- mediation
+- psychological tools
+- higher mental functions
+- consciousness
+- Gestalt theory
+- dialectical materialism
+- reflexology
+- behaviorism
+- Marxist psychology
+- word meaning
+- systemic nature of mind
+- methodology
+key_figures:
+- Wilhelm Wundt
+- Wilhelm Dilthey
+- Hermann Ebbinghaus
+- Nikolai Lange
+- Karl Bühler
+- Wolfgang Köhler
+- Kurt Koffka
+- Ivan Pavlov
+- John B. Watson
+- A. N. Leont'ev
+- A. R. Luria
+- K. N. Kornilov
+- G. I. Chelpanov
+- Spinoza
+chapter_outline:
+- title: Some Major Themes in Vygotsky's Theoretical Work. An Introduction
+  line_range:
+  - 1
+  - 300
+  summary: 'Van der Veer introduces the volume, discussing text reliability, selection
+    criteria, and three major themes: continuity/change, systemic/semantic mind, and
+    methodology. line_range 為近似估計。'
+- title: On Vygotsky's Creative Development
+  line_range:
+  - 301
+  - 600
+  summary: Leont'ev traces Vygotsky's intellectual biography from literary criticism
+    to psychology, his role in building Marxist psychology, and the development of
+    cultural-historical theory. line_range 為近似估計。
+- title: 'Part 1: Problems of the Theory and Methods of Psychology'
+  line_range:
+  - 601
+  - 1800
+  summary: Contains chapters 1-10 on reflexology, consciousness, instrumental method,
+    psychological systems, and localization of mental functions. line_range 為近似估計。
+- title: 'Part 2: Developmental Paths of Psychological Knowledge'
+  line_range:
+  - 1801
+  - 3600
+  summary: Contains chapters 11-15 including prefaces to Thorndike, Bühler, Köhler,
+    Koffka, and the major work 'The Historical Meaning of the Crisis in Psychology.'
+    line_range 為近似估計。
+digestion_status: digested
+worldline: α₁
+total_lines: 3600
+subdirectory: vygotsky-collected-works
+source_file: reference/vygotsky-collected-works/Volumn 3_The Collected Works of L.
+  S. Vygotsky .md
+status: acquired

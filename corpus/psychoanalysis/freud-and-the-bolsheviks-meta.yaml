@@ -1,0 +1,115 @@
+id: freud-and-the-bolsheviks
+title: 'Freud and the Bolsheviks: Psychoanalysis in Imperial Russia and the Soviet
+  Union'
+author: Martin A. Miller
+domain:
+- history-of-psychoanalysis
+- russian-intellectual-history
+- soviet-science-and-ideology
+period: 1900-1930
+key_concepts:
+- somatic pessimism
+- psychoanalytic movement in Russia
+- state-supported psychoanalytic institute
+- Freudianism vs. psychoanalysis
+- unconscious
+- moral therapy
+- zemstvo psychiatry
+- revolutionary psychosis
+- sexual anxiety
+- confinement
+- psychoanalytic criticism industry
+- Tbilisi Uznadze Institute
+- glasnost revival
+key_figures:
+- Sigmund Freud
+- Ivan Balinskii
+- Sergei Korsakov
+- Vladimir Serbskii
+- Ivan Sechenov
+- V. M. Bekhterev
+- N. N. Bazhenov
+- I. R. Merzheevskii
+- P. I. Kovalevskii
+- P. I. Iakobii
+chapter_outline:
+- title: Preface
+  line_range:
+  - 1
+  - 300
+  summary: Introduces the book's aim to correct the omission of Russia from histories
+    of psychoanalysis, outlining the rise, suppression, and revival of Freudian ideas
+    in Russia.
+- title: 'Part One: Before the Revolution'
+  line_range:
+  - 301
+  - 900
+  summary: Sets the stage for psychoanalysis by examining the crisis in Russian psychiatry,
+    the search for alternatives, and the early reception of Freud.
+- title: 'Chapter 1: Psychiatry in Russia and Its Discontents'
+  line_range:
+  - 301
+  - 600
+  summary: Traces the development of Russian psychiatry from asylums to hospitals,
+    highlighting the failures of reform and the growing discontent that led some psychiatrists
+    to Freud.
+- title: 'Chapter 2: The Beginnings of Russian Psychoanalysis'
+  line_range:
+  - 601
+  - 900
+  summary: Explores pre-Freudian concepts of the unconscious in Russia and the initial
+    translation and reception of Freud's work by Russian psychiatrists.
+- title: 'Chapter 3: The Consolidation of a Movement'
+  line_range:
+  - 901
+  - 1200
+  summary: Describes the formation of a psychoanalytic community in Russia, including
+    training institutes and early clinical work, before the 1917 revolution.
+- title: 'Part Two: Psychoanalysis in the Soviet Union'
+  line_range:
+  - 1201
+  - 3545
+  summary: Covers the rise, fall, and eventual rehabilitation of psychoanalysis under
+    Soviet rule, from state support to ideological suppression and later revival.
+- title: 'Chapter 4: Freud in the House of Lenin: Psychoanalysis Ascendant'
+  line_range:
+  - 1201
+  - 1800
+  summary: Details the establishment of the world's first state-supported psychoanalytic
+    institute and children's school in the early Soviet period.
+- title: 'Chapter 5: The Decline and Fall of Soviet Psychoanalysis'
+  line_range:
+  - 1801
+  - 2300
+  summary: Examines the ideological debates of the 1920s and the shift toward condemnation
+    of Freudianism at the 1930 Congress on Human Behavior.
+- title: 'Chapter 6: Killing Freud'
+  line_range:
+  - 2301
+  - 2800
+  summary: Describes the Stalin-era suppression of psychoanalysis, transforming it
+    into a state-sanctioned industry of criticism.
+- title: 'Chapter 7: After Stalin'
+  line_range:
+  - 2801
+  - 3200
+  summary: Covers the post-Stalin period, including the revival of interest in Freud
+    among psychologists at the Uznadze Institute in Tbilisi.
+- title: 'Chapter 8: The Rehabilitation of the Unconscious'
+  line_range:
+  - 3201
+  - 3400
+  summary: Describes the genuine revival of psychoanalysis as theory and clinical
+    practice in the last two decades of the Soviet era.
+- title: 'Chapter 9: Psychoanalysis and Soviet History'
+  line_range:
+  - 3401
+  - 3545
+  summary: Concludes with reflections on the broader significance of psychoanalysis
+    for understanding Soviet history and the oscillations of its reception.
+digestion_status: indexed
+worldline: α₁
+total_lines: 3545
+subdirectory: psychoanalysis
+source_file: reference/psychoanalysis/freud-and-the-bolsheviks.md
+status: acquired

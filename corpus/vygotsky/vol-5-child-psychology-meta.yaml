@@ -1,0 +1,112 @@
+---
+id: volumn-5-the-collected-works-of-l-s-vygotsky
+title: 'The Collected Works of L. S. Vygotsky, Volume 5: Child Psychology'
+author: L. S. Vygotsky
+domain:
+- child-psychology
+- developmental-psychology
+- vygotskian-theory
+period: 1896-1934
+key_concepts:
+- higher mental functions
+- lower psychobiological processes
+- concept formation
+- thinking in concepts
+- qualitative change
+- socialization of psychological phenomena
+- internalization
+- zone of proximal development
+- pedology of the adolescent
+- interests and tendencies
+- negative phase
+- serious play
+- categorical perception
+- logical memory
+- voluntary attention
+key_figures:
+- Lev Vygotsky
+- Carl Ratner
+- Charlotte Buhler
+- Jean Piaget
+- Edward Thorndike
+- Kurt Lewin
+- William Stern
+- Oswald Kroh
+- Karl Buhler
+- A. N. Leont'ev
+chapter_outline:
+- title: Prologue
+  line_range:
+  - 1
+  - 200
+  summary: 'Carl Ratner introduces Vygotsky''s key concepts: higher vs. lower functions, qualitative change, conceptual underpinnings,
+    integration of psychological phenomena, and the socialization of psychology.'
+- title: 'Part 1: Pedology of the Adolescent - Chapter 1: Development of Interests at the Transitional Age'
+  line_range:
+  - 201
+  - 300
+  summary: Discusses the central role of interests in adolescent development, contrasting structural theory with mechanistic
+    views, and outlining phases of interest development (negative phase, positive phase).
+- title: 'Chapter 2: Development of Thinking and Formation of Concepts in the Adolescent'
+  line_range:
+  - 301
+  - 400
+  summary: Argues that adolescence marks a qualitative shift to thinking in concepts, not just quantitative growth. Critiques
+    traditional views that deny new intellectual operations, emphasizing the unity of form and content.
+- title: 'Chapter 3: Development of Higher Mental Functions during the Transitional Age'
+  line_range:
+  - 401
+  - 500
+  summary: Explores how perception, memory, attention, and practical activity are restructured under the influence of concept
+    formation, leading to higher, voluntary, and logical mental functions.
+- title: 'Chapter 4: Imagination and Creativity in the Adolescent'
+  line_range:
+  - 501
+  - 550
+  summary: Examines how imagination is intellectualized during adolescence, becoming a function of concept formation rather
+    than a primitive, object-bound process.
+- title: 'Chapter 5: Dynamics and Structure of the Adolescent''s Personality'
+  line_range:
+  - 551
+  - 600
+  summary: Analyzes the integration of psychological functions into a hierarchical system centered on thinking, and the social
+    origins of personality structure.
+- title: 'Part 2: Problems of Child (Developmental) Psychology - Chapter 6: The Problem of Age'
+  line_range:
+  - 601
+  - 650
+  summary: Discusses the need for a dynamic, dialectical approach to age periods, rejecting static characterizations and emphasizing
+    qualitative changes in driving forces.
+- title: 'Chapter 7: Infancy'
+  line_range:
+  - 651
+  - 680
+  summary: Examines the early development of elementary psychobiological processes and the foundations for later higher functions.
+- title: 'Chapter 8: The Crisis of the First Year'
+  line_range:
+  - 681
+  - 700
+  summary: Analyzes the transitional crisis at age one, highlighting the emergence of new social and psychological formations.
+- title: 'Chapter 9: Early Childhood'
+  line_range:
+  - 701
+  - 715
+  summary: Covers the development of speech, perception, and practical intelligence in early childhood, setting the stage
+    for later conceptual thinking.
+- title: 'Chapter 10: The Crisis at Age Three'
+  line_range:
+  - 716
+  - 725
+  summary: Describes the negativism and restructuring of interests at age three, drawing parallels to adolescent development.
+- title: 'Chapter 11: The Crisis at Age Seven'
+  line_range:
+  - 726
+  - 735
+  summary: Discusses the transition from preschool to school age, focusing on the loss of childish immediacy and the emergence
+    of logical thinking.
+digestion_status: pending
+worldline: α₁
+total_lines: 735
+subdirectory: vygotsky-collected-works
+source_file: reference/vygotsky-collected-works/Volumn 5_The Collected Works of L. S. Vygotsky .pdf.md
+status: acquired

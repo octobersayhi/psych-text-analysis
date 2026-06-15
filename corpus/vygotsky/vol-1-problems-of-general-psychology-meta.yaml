@@ -1,0 +1,139 @@
+---
+id: volumn-1-the-collected-works-of-l-s-vygotsky
+title: 'The Collected Works of L. S. Vygotsky, Volume 1: Problems of General Psychology Including the Volume Thinking and
+  Speech'
+author: L. S. Vygotsky (edited by Robert W. Rieber and Aaron S. Carton)
+domain:
+- cultural-historical-psychology
+- developmental-psycholinguistics
+- soviet-psychology
+period: 1924-1934
+key_concepts:
+- higher mental functions
+- mediation by signs
+- inner speech
+- zone of proximal development
+- instrumental act
+- intermental/intramental
+- word meaning
+- scientific concepts vs. spontaneous concepts
+- psychological systems
+- subtext
+- consciousness
+- volition
+- functional systems
+key_figures:
+- Jerome Bruner
+- A. R. Luria
+- A. N. Leontiev
+- Jean Piaget
+- Kurt Lewin
+- Roman Jakobson
+- Viktor Shklovsky
+- Mikhail Bakhtin
+- W. B. Cannon
+- Karl Buhler
+- Stanislavskii
+chapter_outline:
+- title: Prologue to the English Edition (Jerome Bruner)
+  line_range:
+  - 1
+  - 322
+  summary: Bruner contextualizes Vygotsky's work, highlighting his theory of language as a tool of thought, the zone of proximal
+    development, and the centrality of consciousness and inner speech. (line_range 為近似估計)
+- title: 'The Development of Vygotsky''s Thought: An Introduction (Norris Minick)'
+  line_range:
+  - 323
+  - 644
+  summary: 'Minick outlines three phases in Vygotsky''s theoretical development: instrumental act, psychological systems,
+    and social interaction as explanatory principle. (line_range 為近似估計)'
+- title: 'Thinking and Speech: Preface'
+  line_range:
+  - 645
+  - 709
+  summary: Brief preface to the monograph, setting the stage for the investigation of the relationship between thinking and
+    speech. (line_range 為近似估計)
+- title: Chapter 1. The Problem and the Method of Investigation
+  line_range:
+  - 710
+  - 838
+  summary: Defines the core problem of the relation between thought and language and introduces Vygotsky's methodological
+    approach. (line_range 為近似估計)
+- title: Chapter 2. The Problem of Speech and Thinking in Piaget's Theory
+  line_range:
+  - 839
+  - 1280
+  summary: Critically examines Piaget's theory of egocentric speech and the development of thought, offering an alternative
+    socio-cultural interpretation. (line_range 為近似估計)
+- title: Chapter 3. Stern's Theory of Speech Development
+  line_range:
+  - 1281
+  - 1410
+  summary: Analyzes and critiques Stern's personalistic theory of language development, focusing on the role of intention
+    and meaning. (line_range 為近似估計)
+- title: Chapter 4. The Genetic Roots of Thinking and Speech
+  line_range:
+  - 1411
+  - 1570
+  summary: Explores the phylogenetic and ontogenetic origins of thinking and speech, arguing they have separate roots before
+    converging. (line_range 為近似估計)
+- title: Chapter 5. An Experimental Study of Concept Development
+  line_range:
+  - 1571
+  - 1930
+  summary: Presents experimental research on the formation of concepts, introducing the method of double stimulation and the
+    role of word meaning. (line_range 為近似估計)
+- title: Chapter 6. The Development of Scientific Concepts in Childhood
+  line_range:
+  - 1931
+  - 2410
+  summary: Distinguishes between spontaneous and scientific concepts, arguing that the latter develop through systematic instruction
+    and transform the former. (line_range 為近似估計)
+- title: Chapter 7. Thought and Word
+  line_range:
+  - 2411
+  - 2740
+  summary: Synthesizes the monograph, arguing that thought is not directly expressed in words but is mediated through meaning,
+    subtext, and inner speech. (line_range 為近似估計)
+- title: Lecture 1. Perception and Its Development in Childhood
+  line_range:
+  - 2741
+  - 2820
+  summary: Argues that perception develops through interfunctional connections with other mental processes, especially language
+    and thought. (line_range 為近似估計)
+- title: Lecture 2. Memory and Its Development in Childhood
+  line_range:
+  - 2821
+  - 2900
+  summary: Distinguishes direct from mediated memory, emphasizing the role of verbal formulation and the shift from memory-dependent
+    thinking to thinking-dependent memory. (line_range 為近似估計)
+- title: Lecture 3. Thinking and Its Development in Childhood
+  line_range:
+  - 2901
+  - 2980
+  summary: Critiques associationism and behaviorism, proposing that thinking develops through the internalization of dialogue
+    and the use of language as a tool. (line_range 為近似估計)
+- title: Lecture 4. Emotions and Their Development in Childhood
+  line_range:
+  - 2981
+  - 3060
+  summary: Rejects James-Lange theory and Darwinian reductionism, arguing that emotions become 'centralized' and integrated
+    with higher cognitive functions. (line_range 為近似估計)
+- title: Lecture 5. Imagination and Its Development in Childhood
+  line_range:
+  - 3061
+  - 3140
+  summary: Links imagination to language development, arguing that it is not a primitive process but a higher mental function
+    that transforms reality. (line_range 為近似估計)
+- title: Lecture 6. The Problem of Will and Its Development in Childhood
+  line_range:
+  - 3141
+  - 3226
+  summary: Explores volition as a self-regulatory process mediated by inner speech, drawing on Lewin and the concept of mastering
+    one's own behavior. (line_range 為近似估計)
+digestion_status: pending
+worldline: α₁
+total_lines: 3226
+subdirectory: vygotsky-collected-works
+source_file: reference/vygotsky-collected-works/Volumn 1_The Collected Works of L. S. Vygotsky .md
+status: acquired
