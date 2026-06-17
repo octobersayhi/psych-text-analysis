@@ -23,7 +23,11 @@ key_figures:
   - Jean Piaget
   - Kurt Lewin
 theoretical_position: unknown
-dimension_tags: []
+dimension_tags:
+  - D1
+  - D2
+  - D5
+genetic_level: microgenesis
 cross_references: []
 date_precision: approximate
 ---
@@ -57,6 +61,7 @@ Presents experimental research on the formation of concepts, introducing the met
 
 ### Notes
 
-- `dimension_tags` 待人工標記
+- `dimension_tags` 由腳本自動推論，建議人工驗證
+- `genetic_level` 由腳本自動推論，建議人工驗證
 - `cross_references` 待人工補齊
 - `theoretical_position` 待人工確定

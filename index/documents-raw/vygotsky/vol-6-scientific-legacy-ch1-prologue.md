@@ -24,6 +24,7 @@ key_figures:
   - B. Spinoza
 theoretical_position: unknown
 dimension_tags: []
+genetic_level: ontogenesis
 cross_references: []
 date_precision: approximate
 ---
@@ -57,6 +58,7 @@ Dorothy Robbins introduces Vygotsky's non-classical psychology, Spinozian monism
 
 ### Notes
 
-- `dimension_tags` 待人工標記
+- `dimension_tags` 由腳本自動推論，建議人工驗證
+- `genetic_level` 由腳本自動推論，建議人工驗證
 - `cross_references` 待人工補齊
 - `theoretical_position` 待人工確定

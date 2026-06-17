@@ -23,7 +23,11 @@ key_figures:
   - Jean Piaget
   - Edward Thorndike
 theoretical_position: unknown
-dimension_tags: []
+dimension_tags:
+  - D1
+  - D2
+  - D6
+genetic_level: ontogenesis
 cross_references: []
 date_precision: approximate
 ---
@@ -57,6 +61,7 @@ Analyzes the integration of psychological functions into a hierarchical system c
 
 ### Notes
 
-- `dimension_tags` 待人工標記
+- `dimension_tags` 由腳本自動推論，建議人工驗證
+- `genetic_level` 由腳本自動推論，建議人工驗證
 - `cross_references` 待人工補齊
 - `theoretical_position` 待人工確定

@@ -54,19 +54,24 @@ def make_filename(corpus, volume_id, chapter_idx, chapter_title):
 
 def build_frontmatter(corpus, meta, ch, ch_idx, volume_id):
     """建構 Frontmatter dict。"""
+    concepts = meta.get('key_concepts', [])[:8]
+    title = ch.get('title', '')
+    year = extract_year(meta.get('period', ''))
+    
     fm = {
-        "id": make_id(corpus, volume_id, ch['title']),
-        "title": ch['title'],
+        "id": make_id(corpus, volume_id, title),
+        "title": title,
         "author": meta.get('author', AUTHOR_MAP.get(corpus, 'Unknown')),
-        "year": extract_year(meta.get('period', '')),
+        "year": year,
         "corpus": corpus,
-        "doc_type": infer_doc_type(ch['title'], meta.get('title', '')),
+        "doc_type": infer_doc_type(title, meta.get('title', '')),
         "status": "indexed",
         "source_volume": volume_id,
-        "concepts": meta.get('key_concepts', [])[:8],  # 取前 8 個
+        "concepts": concepts,
         "key_figures": meta.get('key_figures', [])[:5],
         "theoretical_position": "unknown",
-        "dimension_tags": [],
+        "dimension_tags": infer_dimension_tags(title, concepts),
+        "genetic_level": infer_genetic_level(title, concepts, year),
         "cross_references": [],
         "date_precision": "approximate",
     }
@@ -91,6 +96,86 @@ def extract_year(period_str):
         return int(period_str)
     years = re.findall(r'(1[89]\d{2}|20[01]\d)', str(period_str))
     return int(years[-1]) if years else 0
+
+# ── dimension_tags 推論規則 ──────────────────────────
+DIMENSION_RULES = [
+    (['D1'], ['double stimulation', 'dual stimulation', 'mediation by sign',
+              'instrumental act', 'instrumental method', 'sign mediation',
+              'orudie', 'znak', 'tool and symbol', 'tool and sign',
+              'practical intellect', 'higher mental function']),
+    (['D2'], ['scientific concept', 'everyday concept', 'spontaneous concept',
+              'abstraction', 'concept formation', 'понятие', 'pseudo-concept',
+              'thinking in concepts', 'complex thinking', 'academic concept']),
+    (['D3'], ['voluntary memory', 'logical memory', 'mnemotechnics', 'mnemonic',
+              'memory and its development', 'memory development']),
+    (['D4'], ['catharsis', 'artistic emotion', 'dvoistvennost', 'psychology of art',
+              'fable', 'short story', 'tragedy', 'hamlet', 'aesthetic',
+              'imagination and creativity', 'art as technique', 'art as a social',
+              'поэтика', 'искусство']),
+    (['D5'], ['inner speech', 'egocentric speech', 'semantic system', 'word meaning',
+              'sense vs meaning', 'subtext', 'znachenie', 'smysl', 'thought and word',
+              'thinking and speech', 'verbal thinking', 'язык', 'речь',
+              'внутренняя речь']),
+    (['D6'], ['zone of proximal development', 'zpd', 'scaffolding', 'imitation',
+              'development and learning', 'обучение', 'развитие']),
+    (['D7'], ['defectology', 'compensation', 'overcompensation', 'disability',
+              'deaf', 'blind', 'special education', 'abnormal', 'defect',
+              'дефект', 'дефектология']),
+    (['D8'], ['age period', 'crisis', 'transitional age', 'adolescence', 'infancy',
+              'early childhood', 'school age', 'pedology', 'pedologic',
+              'age', 'child psychology', 'child development',
+              'возраст', 'кризис', 'подросток']),
+    (['D9'], ['perezhivanie', 'affect', 'emotion', 'will', 'volition',
+              'voluntary attention', 'spinoza', 'James-Lange', 'cannon',
+              'чувство', 'аффект', 'переживание']),
+    (['D10'],['cultural-historical method', 'dialectics', 'genetic principle',
+              'marxist psychology', 'crisis in psychology', 'behaviourism',
+              'reflexology', 'reductionism', 'methodology', 'epistemology',
+              'исторический', 'диалектика', 'кризис']),
+]
+
+def infer_dimension_tags(title, concepts):
+    """根據標題和概念推論 D1–D10 維度。"""
+    text = (title + ' ' + ' '.join(concepts)).lower()
+    tags = []
+    for dims, keywords in DIMENSION_RULES:
+        for kw in keywords:
+            if kw in text:
+                tags.append(dims[0])
+                break
+    # 最多 3 個維度
+    return sorted(set(tags))[:3]
+
+# ── genetic_level 推論規則 ─────────────────────────────
+GENETIC_LEVEL_KEYWORDS = {
+    'microgenesis': ['microgenesis', 'experimental', 'laboratory', 'reaction',
+                     'reflex', 'seconds', 'minutes', 'процесс'],
+    'ontogenesis': ['ontogenesis', 'ontogenetic', 'development of', 'child',
+                    'adolescent', 'infancy', 'age', 'childhood', 'стадии',
+                    'возраст', 'ребенок', 'детский', 'развитие'],
+    'phylogenesis': ['phylogenesis', 'phylogenetic', 'evolution', 'animal',
+                     'ape', 'primitive', 'human history', 'культурный',
+                     'цивилизация', 'история'],
+    'sociogenesis': ['sociogenesis', 'social', 'collective', 'society',
+                     'culture', 'institution', 'revolution', 'bolshevik',
+                     'fascism', 'социальный', 'общество', 'культура'],
+}
+
+def infer_genetic_level(title, concepts, year):
+    """根據標題、概念、年份推論發生學層級。"""
+    text = (title + ' ' + ' '.join(concepts)).lower()
+    candidates = []
+    for level, keywords in GENETIC_LEVEL_KEYWORDS.items():
+        for kw in keywords:
+            if kw in text:
+                candidates.append(level)
+                break
+    # 優先級: ontogenesis > sociogenesis > phylogenesis > microgenesis
+    priority = {'ontogenesis': 1, 'sociogenesis': 2, 'phylogenesis': 3, 'microgenesis': 4}
+    if candidates:
+        return min(candidates, key=lambda x: priority.get(x, 9))
+    # 多數 Vygotsky 文本預設為 ontogenesis
+    return 'ontogenesis'
 
 def build_content(fm, ch, meta, ch_idx, meta_title):
     """建構完整的 .md 內容。"""
@@ -157,7 +242,8 @@ def build_content(fm, ch, meta, ch_idx, meta_title):
     lines.append("")
     lines.append("### Notes")
     lines.append("")
-    lines.append("- `dimension_tags` 待人工標記")
+    lines.append("- `dimension_tags` 由腳本自動推論，建議人工驗證")
+    lines.append("- `genetic_level` 由腳本自動推論，建議人工驗證")
     lines.append("- `cross_references` 待人工補齊")
     lines.append("- `theoretical_position` 待人工確定")
     lines.append("")

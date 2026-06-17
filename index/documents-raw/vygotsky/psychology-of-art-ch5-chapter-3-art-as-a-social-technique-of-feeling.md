@@ -23,7 +23,10 @@ key_figures:
   - Viktor Shklovsky
   - Vladimir Propp
 theoretical_position: unknown
-dimension_tags: []
+dimension_tags:
+  - D4
+  - D9
+genetic_level: sociogenesis
 cross_references: []
 date_precision: approximate
 ---
@@ -57,6 +60,7 @@ Develops Vygotsky's positive thesis: art is the social technique of emotion, org
 
 ### Notes
 
-- `dimension_tags` 待人工標記
+- `dimension_tags` 由腳本自動推論，建議人工驗證
+- `genetic_level` 由腳本自動推論，建議人工驗證
 - `cross_references` 待人工補齊
 - `theoretical_position` 待人工確定
