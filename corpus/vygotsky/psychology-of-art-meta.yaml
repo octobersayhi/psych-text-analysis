@@ -1,0 +1,98 @@
+---
+id: vygotsky-the-psychology-of-art-1971
+title: 'The Psychology of Art'
+author: L. S. Vygotsky (with Introduction by A. N. Leontiev; Commentary by V. V. Ivanov)
+domain:
+- psychology-of-art
+- cultural-historical-psychology
+- aesthetics
+- literary-theory
+period: 1925
+key_concepts:
+- catharsis
+- artistic emotion
+- dvoistvennost'
+- form and material
+- psychology of art
+- aesthetic reaction
+- artistic technique
+- fable analysis
+- tragic catharsis
+- gentle breathing
+- hamlet
+- creative process
+- imagination
+- perezhivanie
+- sign mediation in art
+key_figures:
+- Lev Vygotsky
+- A. N. Leontiev
+- V. V. Ivanov
+- Viktor Shklovsky
+- Vladimir Propp
+- Alexander Potebnya
+- Ivan Bunin
+- William Shakespeare
+- Ivan Krylov
+- A. A. Potebnya
+- Gustav Shpet
+chapter_outline:
+- title: Introduction (A. N. Leontiev)
+  line_range:
+  - 1
+  - 500
+  summary: Leontiev contextualizes Vygotsky's Psychology of Art within the development of Soviet psychology and cultural-historical theory. (line_range 為近似估計)
+- title: Preface
+  line_range:
+  - 501
+  - 600
+  summary: Vygotsky's preface outlining the aims and methodological approach of the work. (line_range 為近似估計)
+- title: 'Chapter 1: The Psychological Problem of Art'
+  line_range:
+  - 601
+  - 1500
+  summary: Defines the core problem of a psychological approach to art, critiquing traditional experimental aesthetics and subjective-empirical approaches. (line_range 為近似估計)
+- title: 'Chapter 2: Art as Technique'
+  line_range:
+  - 1501
+  - 2500
+  summary: Critically examines the Formalist approach (Shklovsky), arguing that artistic technique cannot be separated from the psychological effect of art. (line_range 為近似估計)
+- title: 'Chapter 3: Art as a Social Technique of Feeling'
+  line_range:
+  - 2501
+  - 3500
+  summary: Develops Vygotsky's positive thesis: art is the social technique of emotion, organizing feeling through signs and symbolic forms. (line_range 為近似估計)
+- title: 'Chapter 4: Analysis of the Fable'
+  line_range:
+  - 3501
+  - 5000
+  summary: Detailed analysis of Krylov's fables, demonstrating the structure of poetic form and its psychophysiological effect on the reader. (line_range 為近似估計)
+- title: 'Chapter 5: Analysis of the Short Story ("Gentle Breathing" by Bunin)'
+  line_range:
+  - 5001
+  - 6500
+  summary: Masterful analysis of Bunin's short story, showing how the structure of the narrative creates a complex aesthetic reaction through the contradiction between form and content. (line_range 為近似估計)
+- title: 'Chapter 6: The Tragedy of Hamlet, Prince of Denmark'
+  line_range:
+  - 6501
+  - 8500
+  summary: Extended analysis of Shakespeare's Hamlet, exploring the tragic catharsis and the psychological structure of the dramatic work. (line_range 為近似估計)
+- title: 'Chapter 7: Art as a Catharsis'
+  line_range:
+  - 8501
+  - 10000
+  summary: Synthesizes the analysis, proposing that art is a cathartic reorganization of the psyche, resolving contradictions through aesthetic experience. (line_range 為近似估計)
+- title: Commentary (V. V. Ivanov)
+  line_range:
+  - 10001
+  - 13000
+  summary: Ivanov's extensive commentary on the text, providing historical context, textual notes, and references to Vygotsky's sources. (line_range 為近似估計)
+- title: Index
+  line_range:
+  - 13001
+  - 15887
+  summary: Index of names and subjects. (line_range 為近似估計)
+digestion_status: pending
+worldline: α₁
+total_lines: 15887
+status: acquired

@@ -14,6 +14,9 @@
 | 5 | `vol-5-child-psychology.md` | Child Psychology | Vol. 5 | 兒童心理學 |
 | 6 | `vol-6-scientific-legacy.md` | Scientific Legacy | Vol. 6 | 科學遺產 |
 | 7 | `vygotsky-notebooks-2018.md` | Vygotsky's Notebooks: A Selection (Zavershneva & van der Veer, 2018) | — | 私人筆記、未發表思想 |
+| 8 | `the-vygotsky-reader.md` | The Vygotsky Reader (van der Veer & Valsiner, 1994) | — | 選集：15 篇獨家英譯論文 |
+| 9 | `psychology-of-art.md` | The Psychology of Art (Vygotsky, 1925/1971) | — | 博士論文；文藝心理學、美學反應理論、catharsis |
+| 10 | `revisionist-revolution.md` | Revisionist Revolution in Vygotsky Studies (Yasnitsky & van der Veer, 2016) | — | 修訂派研究：含 Zavershneva 檔案全面盤點 |
 
 ## 核心概念覆蓋
 
@@ -21,7 +24,7 @@
 
 ## 核心人物
 
-L. S. Vygotsky (1896–1934), A. R. Luria, A. N. Leontiev, Jean Piaget, Kurt Lewin, Jerome Bruner, Roman Jakobson, Mikhail Bakhtin
+L. S. Vygotsky (1896–1934), A. R. Luria, A. N. Leontiev, Jean Piaget, Kurt Lewin, Jerome Bruner, Roman Jakobson, Mikhail Bakhtin, René van der Veer, Jaan Valsiner
 
 ## Schema 說明
 

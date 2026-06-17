@@ -1,0 +1,140 @@
+---
+id: van-der-veer-valsiner-the-vygotsky-reader-1994
+title: 'The Vygotsky Reader'
+author: Lev Vygotsky et al. (edited by René van der Veer and Jaan Valsiner)
+domain:
+- cultural-historical-psychology
+- vygotsky-studies
+- history-of-psychology
+- developmental-psychology
+- defectology
+period: 1924-1934
+key_concepts:
+- cultural development
+- sign mediation
+- higher mental functions
+- tool and symbol
+- zone of proximal development
+- concept formation
+- schizophrenia
+- reflexology
+- socialist alteration of man
+- imagination and creativity
+- voluntary attention
+- academic concepts
+- environment and development
+- defectology
+- Freudian psychoanalysis
+- fascism
+key_figures:
+- Lev Vygotsky
+- Alexander Luria
+- Aleksej Leontiev
+- Leonid Sakharov
+- René van der Veer
+- Jaan Valsiner
+- Sigmund Freud
+- Jean Piaget
+chapter_outline:
+- title: Preface and Introduction (van der Veer & Valsiner)
+  line_range:
+  - 1
+  - 390
+  summary: Editorial introduction explaining the selection, translation principles, historical context, and Vygotsky's life. (line_range 為近似估計)
+- title: 'Chapter 1: Introduction to the Russian Translation of Freud''s Beyond the Pleasure Principle'
+  line_range:
+  - 391
+  - 760
+  summary: 'Vygotsky and Luria introduce Freud''s work to Russian readers, framing psychoanalysis within Marxist psychology. (line_range 為近似估計)'
+- title: 'Chapter 2: Principles of Social Education for Deaf and Dumb Children in Russia'
+  line_range:
+  - 761
+  - 1557
+  summary: Argues for social integration of deaf children through collective education, rejecting segregated approaches. (line_range 為近似估計)
+- title: 'Chapter 3: The Methods of Reflexological and Psychological Investigation'
+  line_range:
+  - 1558
+  - 2986
+  summary: Early methodological paper distinguishing reflexology from psychology, arguing for a dialectical materialist approach to consciousness. (line_range 為近似估計)
+- title: 'Chapter 4: The Problem of the Cultural Behaviour of the Child (Luria)'
+  line_range:
+  - 2987
+  - 3644
+  summary: Luria's study of cultural differences in cognitive processes, using the double stimulation method in Uzbekistan. (line_range 為近似估計)
+- title: 'Chapter 5: The Problem of the Cultural Development of the Child'
+  line_range:
+  - 3645
+  - 4908
+  summary: Key theoretical paper outlining the cultural line of development, the concept of mediation, and the distinction between natural and cultural processes. (line_range 為近似估計)
+- title: 'Chapter 6: Methods for Investigating Concepts (Sakharov)'
+  line_range:
+  - 4909
+  - 5092
+  summary: Sakharov's experimental method for studying concept formation using blocks, later adopted and refined by Vygotsky. (line_range 為近似估計)
+- title: 'Chapter 7: Tool and Symbol in Child Development'
+  line_range:
+  - 5093
+  - 8960
+  summary: Major work on the role of tools and signs in the development of higher mental functions, speech and practical intellect. (line_range 為近似估計)
+- title: 'Chapter 8: The Socialist Alteration of Man'
+  line_range:
+  - 8961
+  - 13491
+  summary: Brief but crucial essay on how socialism will fundamentally transform human nature and psychology. (line_range 為近似估計)
+- title: 'Chapter 9: Imagination and Creativity of the Adolescent'
+  line_range:
+  - 13492
+  - 14629
+  summary: Analyzes the development of imagination during adolescence, arguing it becomes intellectualized and concept-driven. (line_range 為近似估計)
+- title: 'Chapter 10: The Development of Thinking and Concept Formation in Adolescence'
+  line_range:
+  - 13492
+  - 14629
+  summary: Explores the qualitative shift to conceptual thinking in adolescence, the role of word meaning, and social mediation. (Co-located with Ch9; line_range 為近似估計)
+- title: 'Chapter 11: The Development of Voluntary Attention in the Child (Leontiev)'
+  line_range:
+  - 14630
+  - 16046
+  summary: Leontiev's experimental study of the development of voluntary attention through external mediation and internalization. (line_range 為近似估計)
+- title: 'Chapter 12: Thought in Schizophrenia'
+  line_range:
+  - 16047
+  - 16753
+  summary: Analyzes schizophrenic thought as a regression from conceptual to complex-based thinking, linking to Vygotsky's theory of concept formation. (line_range 為近似估計)
+- title: 'Chapter 13: Fascism in Psychoneurology'
+  line_range:
+  - 16754
+  - 17311
+  summary: A political and scientific critique of fascist ideology in neurology and psychiatry, defending materialist science. (line_range 為近似估計)
+- title: 'Chapter 14: The Problem of the Environment'
+  line_range:
+  - 17312
+  - 18103
+  summary: Key lecture on the role of the environment in development, introducing the concept of perezhivanie as the unit of environmental analysis. (line_range 為近似估計)
+- title: 'Chapter 15: The Development of Academic Concepts in School Aged Children'
+  line_range:
+  - 18104
+  - 19724
+  summary: Discusses the relationship between spontaneous and scientific/academic concepts, and their interaction in school learning. (line_range 為近似估計)
+  - 281
+  - 290
+  summary: Analyzes schizophrenic thought as a regression from conceptual to complex-based thinking, linking to Vygotsky's theory of concept formation. (page_range 為近似估計)
+- title: 'Chapter 13: Fascism in Psychoneurology'
+  line_range:
+  - 291
+  - 300
+  summary: A political and scientific critique of fascist ideology in neurology and psychiatry, defending materialist science. (page_range 為近似估計)
+- title: 'Chapter 14: The Problem of the Environment'
+  line_range:
+  - 301
+  - 310
+  summary: Key lecture on the role of the environment in development, introducing the concept of perezhivanie as the unit of environmental analysis. (page_range 為近似估計)
+- title: 'Chapter 15: The Development of Academic Concepts in School Aged Children'
+  line_range:
+  - 311
+  - 355
+  summary: Discusses the relationship between spontaneous and scientific/academic concepts, and their interaction in school learning. (page_range 為近似估計)
+digestion_status: pending
+worldline: α₁
+total_lines: 19564
+status: acquired
