@@ -1,10 +1,10 @@
 # psych-text-analysis — 協作協議
 
-> **版本**：v0.1  
-> **日期**：2026-06-15  
+> **版本**：v0.2  
+> **日期**：2026-06-16  
 > **定位**：定義所有 AI Agent 在操作本專案時必須遵守的規則與邊界  
-> **方法論注入來源**：ECC AGENTS.md v3.8 經驗萃取  
-> **配套文件**：`GRANDPLAN.md`（靜態架構）、`SPIRAL.md`（動態導航）
+> **方法論注入來源**：ECC AGENTS.md v3.8 經驗萃取 + 三層發生學資料庫規格書  
+> **配套文件**：`GRANDPLAN.md`（靜態架構，含三層數據模型）、`SPIRAL.md`（動態導航）、`SCHEMA.md`（三層 Schema 定義）
 
 ---
 
@@ -31,7 +31,7 @@
 | 2 | `AGENTS.md` | 本文件：始終生效的規則、邊界 |
 | 3 | `SPIRAL.md` | 迴旋導航：M-E-G 引擎、GPS 坐標 |
 | 4 | `GENERAL-PRINCIPLES.md` | 方法論十九原則（Vygotsky《思維與言語》第七章） |
-| 5 | `SCHEMA.md` | Frontmatter 規範、校驗規則 |
+| 5 | `SCHEMA.md` | Frontmatter 規範 + 三層發生學 Schema（Segment / Event / Problem Space）+ D1–D10 維度標記 |
 | 6 | `TASKLOG.md` | 進度追蹤、阻擋問題 |
 
 ### 2.2 上下文恢復流程
@@ -66,6 +66,7 @@
 | **來源不可觸動** | `corpus/` 下的原始文獻不可修改。所有分析產出存放在 `index/` 和 `analysis/`。 |
 | **比較類型學** | 不同學派的概念不可直接「翻譯」或「融合」——比較必須標明類型（0/I/II/III/IV/V）。tt_vyg 和 tt_pa 原始值不可直接比較——僅通過百分位（類型 III）。 |
 | **多尺度認知** | 所有語義判斷應攜帶頻譜坐標（長波/中波/短波相位）。禁止無視多尺度干涉的孤立分析。 |
+| **三層數據引用** | Segment / Event / Problem Space 三層之間的 ID 引用必須遵循 SCHEMA.md 第十三節的跨層接口協議。禁止在無 `event_id` 引用的情況下憑空建立 `problem_domain` 節點。 |
 
 ---
 
@@ -94,6 +95,8 @@
 |------|------|
 | 結構變更後運行 `validate-schema.py` | 確保 Frontmatter 格式正確 |
 | 修改 `index/documents-raw/` 後重建編譯庫 | `build-compiled-db.py` |
+| 修改 `index/segments/` 後檢查跨層 ID 引用 | 確保 segment_id → event_id → problem_domain_id 鏈路無斷點 |
+| 新增 event 或 problem domain 後更新對應 INDEX.md | 保持 index/ 與 analysis/ 同步 |
 | 新文獻加入後更新對應 `INDEX.md` | 保持索引看板同步 |
 
 ---
