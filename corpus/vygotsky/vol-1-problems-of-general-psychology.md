@@ -1,5 +1,7 @@
 ---
+title:
 title: "Volumn 1_The Collected Works of L. S. Vygotsky"
+author: "L. S. Vygotsky"
 type: "reference"
 text_size_bytes: 1475410
 ---

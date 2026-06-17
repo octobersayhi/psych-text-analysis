@@ -1,5 +1,7 @@
 ---
+title:
 title: "Volumn 2_The Collected Works of L. S. Vygotsky .pdf"
+author: "L. S. Vygotsky"
 type: "reference"
 text_size_bytes: 1273637
 ---
