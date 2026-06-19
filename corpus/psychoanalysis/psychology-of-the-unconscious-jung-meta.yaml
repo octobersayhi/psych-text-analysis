@@ -1,0 +1,35 @@
+---
+id: psychology-of-the-unconscious-jung
+title: 'Psychology of the Unconscious'
+author: C. G. Jung
+domain:
+- analytical-psychology
+- depth-psychology
+- psychoanalysis
+period: 1916
+key_concepts:
+- unconscious
+- libido
+- mythology
+- symbol-formation
+- personal-unconscious
+- collective-unconscious
+- archetype
+- individuation
+- dream-analysis
+key_figures:
+- C. G. Jung
+- Sigmund Freud
+- Beatrice M. Hinkle
+chapter_outline:
+- title: Entire Work
+  line_range:
+  - 26
+  - 22741
+  summary: (Project Gutenberg public domain, 22741 lines)
+digestion_status: pending
+worldline: α₁
+total_lines: 22741
+subdirectory: psychoanalysis
+source_file: reference/psychoanalysis/psychology-of-the-unconscious-jung.md
+status: acquired

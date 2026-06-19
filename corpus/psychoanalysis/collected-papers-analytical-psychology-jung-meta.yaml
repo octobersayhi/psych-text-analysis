@@ -1,0 +1,35 @@
+---
+id: collected-papers-analytical-psychology-jung
+title: 'Collected Papers on Analytical Psychology'
+author: C. G. Jung
+domain:
+- analytical-psychology
+- depth-psychology
+- psychoanalysis
+period: 1917
+key_concepts:
+- analytical-psychology
+- association-method
+- word-association
+- psychic-energy
+- psychological-types
+- unconscious
+- complex-theory
+- dream-analysis
+- Freud-and-Jung
+key_figures:
+- C. G. Jung
+- Sigmund Freud
+- Constance E. Long
+chapter_outline:
+- title: Entire Work
+  line_range:
+  - 26
+  - 19928
+  summary: (Project Gutenberg public domain, 19928 lines)
+digestion_status: pending
+worldline: α₁
+total_lines: 19928
+subdirectory: psychoanalysis
+source_file: reference/psychoanalysis/collected-papers-analytical-psychology-jung.md
+status: acquired
