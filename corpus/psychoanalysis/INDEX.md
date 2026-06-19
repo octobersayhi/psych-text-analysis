@@ -1,7 +1,7 @@
 # Psychoanalysis — 書籍索引
 
 **子語料庫**：psychoanalysis  
-**總數**：9 | **狀態**：擴充中（含橋樑人物）
+**總數**：13 | **狀態**：擴充中（含橋樑人物）
 
 ## 已獲取
 
@@ -16,14 +16,18 @@
 | 7 | `a-dynamic-theory-of-personality.md` | A Dynamic Theory of Personality: Selected Papers | Kurt Lewin | 1935 |
 | 8 | `conceptual-representation-measurement-psychological-forces.md` | The Conceptual Representation and the Measurement of Psychological Forces | Kurt Lewin | 1938 |
 | 9 | `field-theory-in-social-science.md` | Field Theory in Social Science: Selected Theoretical Papers | Kurt Lewin (D. Cartwright ed.) | 1951 |
+| 10 | `the-language-and-thought-of-the-child.md` | The Language and Thought of the Child | Jean Piaget | 1923 |
+| 11 | `judgment-and-reasoning-in-the-child.md` | Judgment and Reasoning in the Child | Jean Piaget | 1924 |
+| 12 | `play-dreams-and-imitation-in-childhood.md` | Play, Dreams and Imitation in Childhood | Jean Piaget | 1945 |
+| 13 | `the-moral-judgment-of-the-child.md` | The Moral Judgment of the Child | Jean Piaget | 1932 |
 
 ## 核心概念覆蓋
 
-`destruction_as_cause_of_becoming` `reproductive_drive` `schizophrenia_dementia_praecox` `psychoanalytic_case_study` `object_relations_theory` `child_psychology` `symbolism` `triangular_relationship_spielrein_freud_jung` `psychoanalysis_in_russia` `bolshevism_and_psychoanalysis` `women_in_psychoanalysis` `ipa_history` `sociology_and_psychoanalysis` `psychosocial` `life_space` `field_theory` `topological_psychology` `vector_psychology` `hodological_space` `person_environment_dynamics` `constructive_method` `galileian_mode_of_thought` `psychological_conflict` `substitute_activity` `reward_and_punishment` `group_dynamics` `action_research`
+`destruction_as_cause_of_becoming` `reproductive_drive` `schizophrenia_dementia_praecox` `psychoanalytic_case_study` `object_relations_theory` `child_psychology` `symbolism` `triangular_relationship_spielrein_freud_jung` `psychoanalysis_in_russia` `bolshevism_and_psychoanalysis` `women_in_psychoanalysis` `ipa_history` `sociology_and_psychoanalysis` `psychosocial` `life_space` `field_theory` `topological_psychology` `vector_psychology` `hodological_space` `person_environment_dynamics` `constructive_method` `galileian_mode_of_thought` `psychological_conflict` `substitute_activity` `reward_and_punishment` `group_dynamics` `action_research` `egocentric_speech` `child_logic` `cognitive_development` `moral_judgment` `imitation` `play_and_dreams` `symbolism_piaget`
 
 ## 核心人物
 
-Sabina Spielrein (1885–1942), Sigmund Freud (1856–1939), Carl Gustav Jung (1875–1961), Anna Freud, Melanie Klein, Hermine Hug-Hellmuth, **Kurt Lewin (1890–1947)**
+Sabina Spielrein (1885–1942), Sigmund Freud (1856–1939), Carl Gustav Jung (1875–1961), Anna Freud, Melanie Klein, Hermine Hug-Hellmuth, Kurt Lewin (1890–1947), **Jean Piaget (1896–1980)**
 
 ## 核心人物
 

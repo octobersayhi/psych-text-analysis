@@ -1,0 +1,63 @@
+---
+id: the-language-and-thought-of-the-child
+title: 'The Language and Thought of the Child'
+author: Jean Piaget
+domain:
+- developmental-psychology
+- cognitive-development
+- child-psychology
+period: 1923
+key_concepts:
+- egocentric-speech
+- child-logic
+- cognitive-development
+- language-acquisition
+- autistic-thought
+- socialized-speech
+- child-reasoning
+- verbal-egocentrism
+key_figures:
+- Jean Piaget
+- Edouard Claparède
+chapter_outline:
+- title: "Preface by E. Claparède"
+  line_range:
+  - 103
+  - 113
+  summary: "(auto-extracted from PDF)
+- title: "Chapter I: The Function of Language in Two Children of Six"
+  line_range:
+  - 114
+  - 160
+  summary: "(auto-extracted from PDF)
+- title: "Chapter II: Types and Stages of Conversation"
+  line_range:
+  - 137
+  - 175
+  summary: "(auto-extracted from PDF)
+- title: "Chapter III: Understanding and Verbal Explanation between Children"
+  line_range:
+  - 175
+  - 207
+  summary: "(auto-extracted from PDF)
+- title: "Chapter IV: Some Peculiarities of Verbal Understanding"
+  line_range:
+  - 207
+  - 221
+  summary: "(auto-extracted from PDF)
+- title: "Chapter V: The Questions of a Child of Six"
+  line_range:
+  - 221
+  - 244
+  summary: "(auto-extracted from PDF)
+- title: "Chapter VI: The Measure of Ego-centric Language"
+  line_range:
+  - 244
+  - 18950
+  summary: "(auto-extracted from PDF)
+digestion_status: pending
+worldline: α₁
+total_lines: 18950
+subdirectory: psychoanalysis
+source_file: reference/psychoanalysis/the-language-and-thought-of-the-child.md
+status: acquired

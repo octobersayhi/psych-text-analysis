@@ -1,0 +1,57 @@
+---
+id: the-moral-judgment-of-the-child
+title: 'The Moral Judgment of the Child'
+author: Jean Piaget
+domain:
+- developmental-psychology
+- moral-psychology
+- child-psychology
+- social-psychology
+period: 1932
+key_concepts:
+- moral-judgment
+- rules-of-the-game
+- heteronomy
+- autonomy
+- intentionality
+- responsibility
+- justice
+- punishment
+- respect
+- cooperation
+key_figures:
+- Jean Piaget
+- Sigmund Freud
+- Emile Durkheim
+chapter_outline:
+- title: "Introduction: The Rules of the Game"
+  line_range:
+  - 71
+  - 237
+  summary: "(auto-extracted from PDF)
+- title: "Chapter 1: The Rules of the Game (detailed analysis)"
+  line_range:
+  - 238
+  - 4372
+  summary: "(auto-extracted from PDF)
+- title: "Chapter 2: Adult Constraint and Moral Realism"
+  line_range:
+  - 4373
+  - 11025
+  summary: "(auto-extracted from PDF)
+- title: "Chapter 3: Cooperation and the Development of the Idea of Justice"
+  line_range:
+  - 11026
+  - 15525
+  summary: "(auto-extracted from PDF)
+- title: "Chapter 4: Conclusions + Index"
+  line_range:
+  - 15526
+  - 18659
+  summary: "(auto-extracted from PDF)
+digestion_status: pending
+worldline: α₁
+total_lines: 18659
+subdirectory: psychoanalysis
+source_file: reference/psychoanalysis/the-moral-judgment-of-the-child.md
+status: acquired
