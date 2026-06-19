@@ -1,7 +1,7 @@
 # Psychoanalysis — 書籍索引
 
 **子語料庫**：psychoanalysis  
-**總數**：21 | **狀態**：擴充中（含橋樑人物與哲學基礎）
+**總數**：27 | **狀態**：擴充中（含橋樑人物與哲學基礎）
 
 ## 已獲取
 
@@ -28,14 +28,20 @@
 | 19 | `general-principles-of-human-reflexology.md` | General Principles of Human Reflexology | Vladimir Bekhterev | 1917 |
 | 20 | `collective-reflexology.md` | Collective Reflexology: The Complete Edition | Vladimir Bekhterev | 1921 |
 | 21 | `spinoza-ethics-part3.md` | Ethics, Part III: On the Origin and Nature of the Affects | Benedict de Spinoza | 1677 |
+| 22 | `child-language-aphasia-jakobson.md` | Child Language, Aphasia and Phonological Universals | Roman Jakobson | 1941 |
+| 23 | `fundamentals-of-language-jakobson.md` | Fundamentals of Language | Roman Jakobson; M. Halle | 1956 |
+| 24 | `comparative-psychology-mental-development-werner.md` | Comparative Psychology of Mental Development | Heinz Werner | 1948 |
+| 25 | `problems-of-dostoevskys-poetics-bakhtin.md` | Problems of Dostoevsky's Poetics | Mikhail Bakhtin | 1929 |
+| 26 | `activity-consciousness-personality-leontiev.md` | Activity, Consciousness, and Personality | A. N. Leontiev | 1978 |
+| 27 | `cognitive-development-luria.md` | Cognitive Development: Its Cultural and Social Foundations | A. R. Luria | 1976 |
 
 ## 核心概念覆蓋
 
-`destruction_as_cause_of_becoming` `reproductive_drive` `schizophrenia_dementia_praecox` `psychoanalytic_case_study` `object_relations_theory` `child_psychology` `symbolism` `triangular_relationship_spielrein_freud_jung` `psychoanalysis_in_russia` `bolshevism_and_psychoanalysis` `women_in_psychoanalysis` `ipa_history` `sociology_and_psychoanalysis` `psychosocial` `life_space` `field_theory` `topological_psychology` `vector_psychology` `hodological_space` `person_environment_dynamics` `constructive_method` `galileian_mode_of_thought` `psychological_conflict` `substitute_activity` `reward_and_punishment` `group_dynamics` `action_research` `egocentric_speech` `child_logic` `cognitive_development` `moral_judgment` `imitation` `play_and_dreams` `symbolism_piaget` `insight_learning` `tool_use` `chimpanzee_cognition` `practical_intellect` `gestalt_perception` `isomorphism` `perceptual_organization` `phi_phenomenon` `productive_thinking` `figure_ground` `trace_theory` `conditioned_reflex` `second_signal_system` `higher_nervous_activity` `reflexology` `objective_psychology` `collective_reflexology` `affectus` `conatus` `active_affects` `passive_affects` `power_to_act`
+`destruction_as_cause_of_becoming` `reproductive_drive` `schizophrenia_dementia_praecox` `psychoanalytic_case_study` `object_relations_theory` `child_psychology` `symbolism` `triangular_relationship_spielrein_freud_jung` `psychoanalysis_in_russia` `bolshevism_and_psychoanalysis` `women_in_psychoanalysis` `ipa_history` `sociology_and_psychoanalysis` `psychosocial` `life_space` `field_theory` `topological_psychology` `vector_psychology` `hodological_space` `person_environment_dynamics` `constructive_method` `galileian_mode_of_thought` `psychological_conflict` `substitute_activity` `reward_and_punishment` `group_dynamics` `action_research` `egocentric_speech` `child_logic` `cognitive_development` `moral_judgment` `imitation` `play_and_dreams` `symbolism_piaget` `insight_learning` `tool_use` `chimpanzee_cognition` `practical_intellect` `gestalt_perception` `isomorphism` `perceptual_organization` `phi_phenomenon` `productive_thinking` `figure_ground` `trace_theory` `conditioned_reflex` `second_signal_system` `higher_nervous_activity` `reflexology` `objective_psychology` `collective_reflexology` `affectus` `conatus` `active_affects` `passive_affects` `power_to_act` `activity_theory` `dialogism` `polyphony` `orthogenetic_principle` `microgenesis` `phonological_universals` `distinctive_features`
 
 ## 核心人物
 
-Sabina Spielrein (1885–1942), Sigmund Freud (1856–1939), Carl Gustav Jung (1875–1961), Anna Freud, Melanie Klein, Hermine Hug-Hellmuth, Kurt Lewin (1890–1947), Jean Piaget (1896–1980), Wolfgang Köhler (1887–1967), Kurt Koffka (1886–1941), Max Wertheimer (1880–1943), Ivan Pavlov (1849–1936), Vladimir Bekhterev (1857–1927), **Baruch Spinoza (1632–1677)**
+Sabina Spielrein (1885–1942), Sigmund Freud (1856–1939), Carl Gustav Jung (1875–1961), Anna Freud, Melanie Klein, Hermine Hug-Hellmuth, Kurt Lewin (1890–1947), Jean Piaget (1896–1980), Wolfgang Köhler (1887–1967), Kurt Koffka (1886–1941), Max Wertheimer (1880–1943), Ivan Pavlov (1849–1936), Vladimir Bekhterev (1857–1927), Baruch Spinoza (1632–1677), **Roman Jakobson (1896–1982)**, **Heinz Werner (1890–1964)**, **Mikhail Bakhtin (1895–1975)**, **A. N. Leontiev (1904–1979)**, **A. R. Luria (1902–1977)**
 
 ## Schema 說明
 

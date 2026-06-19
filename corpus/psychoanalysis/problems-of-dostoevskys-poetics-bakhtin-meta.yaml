@@ -1,0 +1,35 @@
+---
+id: problems-of-dostoevskys-poetics-bakhtin
+title: 'Problems of Dostoevsky's Poetics'
+author: Mikhail Bakhtin
+domain:
+- literary-theory
+- dialogism
+- philosophy-of-language
+- narratology
+period: 1929
+key_concepts:
+- dialogism
+- polyphony
+- carnival
+- unfinalizability
+- heteroglossia
+- chronotope
+- double-voiced-discourse
+- inner-dialogue
+key_figures:
+- Mikhail Bakhtin
+- Caryl Emerson
+- Fyodor Dostoevsky
+chapter_outline:
+- title: Entire Work
+  line_range:
+  - 26
+  - 16336
+  summary: '(auto-extracted, 16336 lines)'
+digestion_status: pending
+worldline: α₁
+total_lines: 16336
+subdirectory: psychoanalysis
+source_file: reference/psychoanalysis/problems-of-dostoevskys-poetics-bakhtin.md
+status: acquired
