@@ -327,3 +327,77 @@ dimension_tags →
 - **corpus/psychoanalysis/ 總計：30 冊**
 - **corpus/vygotsky/ 總計：10 冊**
 - **全專案總計：40 冊**
+
+---
+
+## 九、2026-06-19：DCA 診斷——專案的螺旋方向與 Vygotsky 的超越
+
+### 9.1 Crisis（理論危機）
+
+現行 Phase Gate 設計是**線性擴張**：
+```
+Phase 1（索引 Vygotsky）→ Phase 2（索引 psychoanalysis）→ Phase 3+（跨學派比較）
+```
+
+但 Vygotsky 本人的核心困境是：**他沒能建成「有機意識系統」（acme psychology）就去世了。**
+
+如果我們只做「Vygotsky 說 X，Freud 說 Y」的平行比較，我們就在重複 Vygotsky 死前已經超越的階段——而錯過了他晚期真正的方向：Spinoza 轉向、affectus、有機意識系統。
+
+### 9.2 Lag（滯後）
+
+| 層面 | 滯後表現 |
+|:-----|:---------|
+| Phase 設計 | 1→2→3→4→5→6 的線性推進，沒有「出去→回來→再出去」的內在迴旋 |
+| 三層整合目標 | 描述為「技術性穿透查詢」，而非「理論重建」 |
+| Vygotsky 的定位 | 被當作**分析的起點**（對象），而不是**分析的歸宿**（問題） |
+
+### 9.3 Alternative（替代路徑）
+
+問題空間（Problem Space）「意識如何通過語言組織自身」只是 Vygotsky 走過的一條路徑的中段：
+
+```
+Psychoanalysis ← 共享問題域（consciousness through language） → Vygotsky
+                            ↓
+                  Vygotsky 穿過這個問題域後繼續往前走
+                            ↓
+                  走向 psychoanalysis 到不了的地方
+                            ↓
+                  acme psychology / 有機意識系統
+                            ↓
+                  Spinoza「狗與星座」——新心理學與舊心理學
+                  只剩下名義上的同一性
+```
+
+Psychoanalysis 與 Vygotsky 在問題域上交會，但 Vygotsky 走出了這個共享段，往他自己獨有的方向去了。
+
+### 9.4 Direction（方向）
+
+SPIRAL 需要疊加一個概念性迴旋（R）在 M-E-G 之上：
+
+```
+螺旋 1：Vygotsky 在「意識—語言」問題域的位置（Vol.1《思維與言語》）
+      ↓
+螺旋 2：Psychoanalysis / Gestalt / Reflexology 在同一個問題域的不同端點
+      ↓
+螺旋 3：Vygotsky 超越這個問題域的運動——走向 acme / 有機系統
+       （晚期的 Spinoza 轉向、Notebooks ch.13、Vol.6《情感理論》）
+      ↓
+螺旋 4：DCA 判斷——這個「超越」是否成功？
+       如果成功，會是什麼樣子？（Direction 生成）
+      ↓ ⤴
+螺旋 5：回到 Vygotsky——帶著 Spinoza「狗與星座」的質變視角
+       重新理解他的未完成系統
+```
+
+### 9.5 New Crisis（新危機）
+
+專案自身的限制：**我們試圖重建一個 Vygotsky 自己沒能完成的系統。** 這意味著分析對象本身就有內在的 unfinishedness——這不是技術問題，而是認識論問題。三層整合查詢的最終目標不是「比較答案」，而是追蹤 Vygotsky 如何穿越並超越共享問題域的完整軌跡。
+
+### 9.6 引用來源
+
+| 文本 | 出處 |
+|:-----|:------|
+| Vygotsky (1930) "Socialist Construction of Man" | [marxists.org](https://www.marxists.org/archive/vygotsky/works/1930/socialism.htm) |
+| Spinoza「狗與星座」比喻 | 同上——Engels 勞動創造人→新勞動創造新人類→Spinoza 的狗 |
+| Acme psychology / 有機意識系統 | Vygotsky Notebooks (Zavershneva & van der Veer, 2018) |
+| Spinoza Ethics Part III: Affectus | corpus/psychoanalysis/ (2026-06-19 新增) |
