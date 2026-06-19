@@ -318,15 +318,15 @@ problem_domains:
 | 類型 | 標記 | 定義 | 實例 |
 |------|------|------|------|
 | 直接合作 | `collaborative` | 共同實驗、共同授課、理論共構 | Luria, Leontiev, Zeigarnik |
-| 機構共存 | `copresence` | 同一機構/城市，共享學術空氣 | Bakhtin 圈, Spielrein, Schmidt |
-| 單向攝取/轉化 | `harvesting` | Vygotsky 讀他、轉化他 | Pavlov, Piaget, Freud, Spinoza, Marx |
+| 機構共存 | `copresence` | 同一機構/城市，共享學術空氣 | Bakhtin 圈, Spielrein, Schmidt, Jung |
+| 單向攝取/轉化 | `harvesting` | Vygotsky 讀他、轉化他 | Pavlov, Piaget, Freud, Spinoza, Marx, Koffka |
 | 平行問題域 | `parallel` | 無直接文本接觸，處理同一問題 | Tynyanov, Werner |
 
 ### 12.4 對位類型（Resonance Types）
 
 | 類型 | 定義 | 實例 |
 |------|------|------|
-| **互補對位** | 兩端點拼合為完整光譜 | Spielrein（無意識→意識）與 Vygotsky（意識→無意識） |
+| **互補對位** | 兩端點拼合為完整光譜 | Spielrein（無意識→意識）與 Vygotsky（意識→無意識）；Jung（象徵轉化）與 Spielrein（毀滅=生成） |
 | **鏡像對位** | 方向相反，結構同構 | Spielrein「自閉語言」vs Vygotsky「自我中心言語」 |
 | **螺旋回歸** | 同一問題在更高層次重現 | 1928「語言與思維」→1934「語言與思維」 |
 
@@ -376,8 +376,8 @@ event_links:
 此層的 `approaches[].scholar` 可引用以下人物（不限於此）：
 
 **直接合作**：Vygotsky, Luria, Leontiev, Zeigarnik, Birenbaum, Kaulina, Bozhovich, Morozova, Levina, Slavina
-**機構共存**：Bakhtin, Voloshinov, Medvedev, V. Schmidt, Blonsky
-**單向攝取**：Marx, Hegel, Spinoza, Freud, Piaget, Pavlov, Lewin, Köhler, Wertheimer
+**機構共存**：Bakhtin, Voloshinov, Medvedev, V. Schmidt, Blonsky, Jung
+**單向攝取**：Marx, Hegel, Spinoza, Freud, Piaget, Pavlov, Lewin, Köhler, Koffka, Wertheimer
 **平行問題域**：Jakobson, Tynyanov, Mandelstam, Werner, Spielrein
 
 ---
