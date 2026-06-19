@@ -1,7 +1,7 @@
 # Psychoanalysis — 書籍索引
 
 **子語料庫**：psychoanalysis  
-**總數**：13 | **狀態**：擴充中（含橋樑人物）
+**總數**：18 | **狀態**：擴充中（含橋樑人物）
 
 ## 已獲取
 
@@ -24,18 +24,15 @@
 | 15 | `gestalt-psychology-kohler.md` | Gestalt Psychology | Wolfgang Köhler | 1930 |
 | 16 | `principles-of-gestalt-psychology-koffka.md` | Principles of Gestalt Psychology | Kurt Koffka | 1935 |
 | 17 | `productive-thinking-wertheimer.md` | Productive Thinking | Max Wertheimer | 1945 |
+| 18 | `lectures-on-conditioned-reflexes-pavlov.md` | Lectures on Conditioned Reflexes | Ivan Pavlov | 1928 |
 
 ## 核心概念覆蓋
 
-`destruction_as_cause_of_becoming` `reproductive_drive` `schizophrenia_dementia_praecox` `psychoanalytic_case_study` `object_relations_theory` `child_psychology` `symbolism` `triangular_relationship_spielrein_freud_jung` `psychoanalysis_in_russia` `bolshevism_and_psychoanalysis` `women_in_psychoanalysis` `ipa_history` `sociology_and_psychoanalysis` `psychosocial` `life_space` `field_theory` `topological_psychology` `vector_psychology` `hodological_space` `person_environment_dynamics` `constructive_method` `galileian_mode_of_thought` `psychological_conflict` `substitute_activity` `reward_and_punishment` `group_dynamics` `action_research` `egocentric_speech` `child_logic` `cognitive_development` `moral_judgment` `imitation` `play_and_dreams` `symbolism_piaget` `insight_learning` `tool_use` `chimpanzee_cognition` `practical_intellect` `gestalt_perception` `isomorphism` `perceptual_organization` `phi_phenomenon` `productive_thinking` `figure_ground` `trace_theory`
+`destruction_as_cause_of_becoming` `reproductive_drive` `schizophrenia_dementia_praecox` `psychoanalytic_case_study` `object_relations_theory` `child_psychology` `symbolism` `triangular_relationship_spielrein_freud_jung` `psychoanalysis_in_russia` `bolshevism_and_psychoanalysis` `women_in_psychoanalysis` `ipa_history` `sociology_and_psychoanalysis` `psychosocial` `life_space` `field_theory` `topological_psychology` `vector_psychology` `hodological_space` `person_environment_dynamics` `constructive_method` `galileian_mode_of_thought` `psychological_conflict` `substitute_activity` `reward_and_punishment` `group_dynamics` `action_research` `egocentric_speech` `child_logic` `cognitive_development` `moral_judgment` `imitation` `play_and_dreams` `symbolism_piaget` `insight_learning` `tool_use` `chimpanzee_cognition` `practical_intellect` `gestalt_perception` `isomorphism` `perceptual_organization` `phi_phenomenon` `productive_thinking` `figure_ground` `trace_theory` `conditioned_reflex` `second_signal_system` `higher_nervous_activity`
 
 ## 核心人物
 
-Sabina Spielrein (1885–1942), Sigmund Freud (1856–1939), Carl Gustav Jung (1875–1961), Anna Freud, Melanie Klein, Hermine Hug-Hellmuth, Kurt Lewin (1890–1947), Jean Piaget (1896–1980), Wolfgang Köhler (1887–1967), **Kurt Koffka (1886–1941)**, **Max Wertheimer (1880–1943)**
-
-## 核心人物
-
-Sabina Spielrein (1885–1942), Sigmund Freud (1856–1939), Carl Gustav Jung (1875–1961), Anna Freud, Melanie Klein, Hermine Hug-Hellmuth
+Sabina Spielrein (1885–1942), Sigmund Freud (1856–1939), Carl Gustav Jung (1875–1961), Anna Freud, Melanie Klein, Hermine Hug-Hellmuth, Kurt Lewin (1890–1947), Jean Piaget (1896–1980), Wolfgang Köhler (1887–1967), Kurt Koffka (1886–1941), Max Wertheimer (1880–1943), Ivan Pavlov (1849–1936)
 
 ## Schema 說明
 

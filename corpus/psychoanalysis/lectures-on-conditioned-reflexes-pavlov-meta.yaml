@@ -1,0 +1,37 @@
+---
+id: lectures-on-conditioned-reflexes-pavlov
+title: 'Lectures on Conditioned Reflexes'
+author: Ivan Petrovich Pavlov
+domain:
+- reflexology
+- neurophysiology
+- experimental-psychology
+- soviet-psychology
+period: 1928
+key_concepts:
+- conditioned-reflex
+- unconditioned-reflex
+- second-signal-system
+- cortical-inhibition
+- excitation-and-inhibition
+- signalization
+- higher-nervous-activity
+- experimental-neurosis
+- typology-of-nervous-system
+- irradiation-and-concentration
+key_figures:
+- Ivan Petrovich Pavlov
+- W. Horsley Gantt
+- Vladimir Bekhterev
+chapter_outline:
+- title: Entire Work
+  line_range:
+  - 26
+  - 11110
+  summary: Pavlov's lectures on conditioned reflexes—the foundation of reflexology, the second signal system, and higher nervous activity. (11110 lines, auto-extracted)
+digestion_status: pending
+worldline: α₁
+total_lines: 11110
+subdirectory: psychoanalysis
+source_file: reference/psychoanalysis/lectures-on-conditioned-reflexes-pavlov.md
+status: acquired
