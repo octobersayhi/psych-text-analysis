@@ -1,7 +1,7 @@
 # Psychoanalysis — 書籍索引
 
 **子語料庫**：psychoanalysis  
-**總數**：18 | **狀態**：擴充中（含橋樑人物）
+**總數**：21 | **狀態**：擴充中（含橋樑人物與哲學基礎）
 
 ## 已獲取
 
@@ -27,14 +27,15 @@
 | 18 | `lectures-on-conditioned-reflexes-pavlov.md` | Lectures on Conditioned Reflexes | Ivan Pavlov | 1928 |
 | 19 | `general-principles-of-human-reflexology.md` | General Principles of Human Reflexology | Vladimir Bekhterev | 1917 |
 | 20 | `collective-reflexology.md` | Collective Reflexology: The Complete Edition | Vladimir Bekhterev | 1921 |
+| 21 | `spinoza-ethics-part3.md` | Ethics, Part III: On the Origin and Nature of the Affects | Benedict de Spinoza | 1677 |
 
 ## 核心概念覆蓋
 
-`destruction_as_cause_of_becoming` `reproductive_drive` `schizophrenia_dementia_praecox` `psychoanalytic_case_study` `object_relations_theory` `child_psychology` `symbolism` `triangular_relationship_spielrein_freud_jung` `psychoanalysis_in_russia` `bolshevism_and_psychoanalysis` `women_in_psychoanalysis` `ipa_history` `sociology_and_psychoanalysis` `psychosocial` `life_space` `field_theory` `topological_psychology` `vector_psychology` `hodological_space` `person_environment_dynamics` `constructive_method` `galileian_mode_of_thought` `psychological_conflict` `substitute_activity` `reward_and_punishment` `group_dynamics` `action_research` `egocentric_speech` `child_logic` `cognitive_development` `moral_judgment` `imitation` `play_and_dreams` `symbolism_piaget` `insight_learning` `tool_use` `chimpanzee_cognition` `practical_intellect` `gestalt_perception` `isomorphism` `perceptual_organization` `phi_phenomenon` `productive_thinking` `figure_ground` `trace_theory` `conditioned_reflex` `second_signal_system` `higher_nervous_activity` `reflexology` `objective_psychology` `collective_reflexology`
+`destruction_as_cause_of_becoming` `reproductive_drive` `schizophrenia_dementia_praecox` `psychoanalytic_case_study` `object_relations_theory` `child_psychology` `symbolism` `triangular_relationship_spielrein_freud_jung` `psychoanalysis_in_russia` `bolshevism_and_psychoanalysis` `women_in_psychoanalysis` `ipa_history` `sociology_and_psychoanalysis` `psychosocial` `life_space` `field_theory` `topological_psychology` `vector_psychology` `hodological_space` `person_environment_dynamics` `constructive_method` `galileian_mode_of_thought` `psychological_conflict` `substitute_activity` `reward_and_punishment` `group_dynamics` `action_research` `egocentric_speech` `child_logic` `cognitive_development` `moral_judgment` `imitation` `play_and_dreams` `symbolism_piaget` `insight_learning` `tool_use` `chimpanzee_cognition` `practical_intellect` `gestalt_perception` `isomorphism` `perceptual_organization` `phi_phenomenon` `productive_thinking` `figure_ground` `trace_theory` `conditioned_reflex` `second_signal_system` `higher_nervous_activity` `reflexology` `objective_psychology` `collective_reflexology` `affectus` `conatus` `active_affects` `passive_affects` `power_to_act`
 
 ## 核心人物
 
-Sabina Spielrein (1885–1942), Sigmund Freud (1856–1939), Carl Gustav Jung (1875–1961), Anna Freud, Melanie Klein, Hermine Hug-Hellmuth, Kurt Lewin (1890–1947), Jean Piaget (1896–1980), Wolfgang Köhler (1887–1967), Kurt Koffka (1886–1941), Max Wertheimer (1880–1943), Ivan Pavlov (1849–1936), **Vladimir Bekhterev (1857–1927)**
+Sabina Spielrein (1885–1942), Sigmund Freud (1856–1939), Carl Gustav Jung (1875–1961), Anna Freud, Melanie Klein, Hermine Hug-Hellmuth, Kurt Lewin (1890–1947), Jean Piaget (1896–1980), Wolfgang Köhler (1887–1967), Kurt Koffka (1886–1941), Max Wertheimer (1880–1943), Ivan Pavlov (1849–1936), Vladimir Bekhterev (1857–1927), **Baruch Spinoza (1632–1677)**
 
 ## Schema 說明
 
