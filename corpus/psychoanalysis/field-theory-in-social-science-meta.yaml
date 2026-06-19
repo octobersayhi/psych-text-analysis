@@ -1,0 +1,38 @@
+---
+id: field-theory-in-social-science
+title: 'Field Theory in Social Science: Selected Theoretical Papers'
+author: Kurt Lewin
+editor: Dorwin Cartwright
+domain:
+- gestalt-psychology
+- social-psychology
+- field-theory
+- group-dynamics
+period: 1951
+key_concepts:
+- field-theory
+- group-dynamics
+- social-psychology
+- action-research
+- quasi-stationary-equilibrium
+- social-change
+- leadership-styles
+- group-decision
+- cultural-change
+key_figures:
+- Kurt Lewin
+- Dorwin Cartwright
+- Ronald Lippitt
+- John R. P. French
+chapter_outline:
+- title: Entire Work
+  line_range:
+  - 1
+  - 30
+  summary: '**掃描版 PDF，待 OCR 處理。** 本書為 Lewin 晚期社會心理學論文集，含 field theory 的系統性陳述、group dynamics、action research 等經典篇章。'
+digestion_status: pending
+worldline: α₁
+total_lines: 30
+subdirectory: psychoanalysis
+source_file: reference/psychoanalysis/field-theory-in-social-science.md
+status: acquired

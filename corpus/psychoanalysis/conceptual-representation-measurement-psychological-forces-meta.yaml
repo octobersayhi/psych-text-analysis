@@ -1,0 +1,78 @@
+---
+id: conceptual-representation-measurement-psychological-forces
+title: 'The Conceptual Representation and the Measurement of Psychological Forces'
+author: Kurt Lewin
+domain:
+- gestalt-psychology
+- topological-psychology
+- vector-psychology
+- psychological-methodology
+period: 1938
+key_concepts:
+- psychological-force
+- hodological-space
+- direction-in-psychology
+- force-field
+- conflict-theory
+- topological-space
+- vector-psychology
+- life-space
+- potency
+- cognitive-structure
+- barrier
+- driving-force
+- restraining-force
+key_figures:
+- Kurt Lewin
+chapter_outline:
+- title: Preface and Contents
+  line_range:
+  - 80
+  - 645
+  summary: Preface, table of contents, and introductory material.
+- title: 'I. The Position of the Construct of Force in Psychology'
+  line_range:
+  - 646
+  - 2500
+  summary: The necessity of force as a psychological construct; directed values in explanation; operational definitions.
+- title: 'II. The Geometry of Direction in Psychology'
+  line_range:
+  - 2501
+  - 4500
+  summary: Hodological space—the geometry of direction in the life space; distance, paths, and equality of direction.
+- title: 'III. Psychological Forces'
+  line_range:
+  - 4501
+  - 6777
+  summary: The nature and properties of psychological forces; relation between force fields and behavior.
+- title: 'IV. The Determination of Psychological Forces'
+  line_range:
+  - 6778
+  - 10400
+  summary: Methods for determining the strength and direction of psychological forces; experimental procedures.
+- title: 'V. Conflict of Forces'
+  line_range:
+  - 10401
+  - 11847
+  summary: Types of psychological conflict—approach-approach, avoidance-avoidance, approach-avoidance.
+- title: 'Chapter One: Supplementary Studies'
+  line_range:
+  - 11873
+  - 12118
+  summary: Additional experimental studies on hodological space, force, and potency.
+- title: 'Chapter Two: Supplementary Studies (cont.)'
+  line_range:
+  - 12119
+  - 12640
+  summary: Further studies on overlapping force fields and cognitive structure.
+- title: Bibliography and Index
+  line_range:
+  - 12641
+  - 14616
+  summary: References and index.
+digestion_status: pending
+worldline: α₁
+total_lines: 14616
+subdirectory: psychoanalysis
+source_file: reference/psychoanalysis/conceptual-representation-measurement-psychological-forces.md
+status: acquired

@@ -1,7 +1,7 @@
 # Psychoanalysis — 書籍索引
 
 **子語料庫**：psychoanalysis  
-**總數**：6 | **狀態**：擴充中（含橋樑人物）
+**總數**：9 | **狀態**：擴充中（含橋樑人物）
 
 ## 已獲取
 
@@ -13,10 +13,13 @@
 | 4 | `100-years-of-the-ipa.md` | 100 Years of the IPA: The Centenary History of the International Psychoanalytical Association 1910–2010 | Loewenberg & Thompson (eds.) | 2011 |
 | 5 | `unhappy-divorce-sociology-psychoanalysis.md` | The Unhappy Divorce of Sociology and Psychoanalysis: Diverse Perspectives on the Psychosocial | Chancer & Andrews (eds.) | 2014 |
 | 6 | `principles-of-topological-psychology.md` | Principles of Topological Psychology | Kurt Lewin | 1936 |
+| 7 | `a-dynamic-theory-of-personality.md` | A Dynamic Theory of Personality: Selected Papers | Kurt Lewin | 1935 |
+| 8 | `conceptual-representation-measurement-psychological-forces.md` | The Conceptual Representation and the Measurement of Psychological Forces | Kurt Lewin | 1938 |
+| 9 | `field-theory-in-social-science.md` | Field Theory in Social Science: Selected Theoretical Papers | Kurt Lewin (D. Cartwright ed.) | 1951 |
 
 ## 核心概念覆蓋
 
-`destruction_as_cause_of_becoming` `reproductive_drive` `schizophrenia_dementia_praecox` `psychoanalytic_case_study` `object_relations_theory` `child_psychology` `symbolism` `triangular_relationship_spielrein_freud_jung` `psychoanalysis_in_russia` `bolshevism_and_psychoanalysis` `women_in_psychoanalysis` `ipa_history` `sociology_and_psychoanalysis` `psychosocial` `life_space` `field_theory` `topological_psychology` `vector_psychology` `hodological_space` `person_environment_dynamics` `constructive_method` `galileian_mode_of_thought`
+`destruction_as_cause_of_becoming` `reproductive_drive` `schizophrenia_dementia_praecox` `psychoanalytic_case_study` `object_relations_theory` `child_psychology` `symbolism` `triangular_relationship_spielrein_freud_jung` `psychoanalysis_in_russia` `bolshevism_and_psychoanalysis` `women_in_psychoanalysis` `ipa_history` `sociology_and_psychoanalysis` `psychosocial` `life_space` `field_theory` `topological_psychology` `vector_psychology` `hodological_space` `person_environment_dynamics` `constructive_method` `galileian_mode_of_thought` `psychological_conflict` `substitute_activity` `reward_and_punishment` `group_dynamics` `action_research`
 
 ## 核心人物
 

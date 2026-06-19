@@ -1,0 +1,89 @@
+---
+id: a-dynamic-theory-of-personality
+title: 'A Dynamic Theory of Personality: Selected Papers'
+author: Kurt Lewin
+domain:
+- gestalt-psychology
+- personality-theory
+- developmental-psychology
+- social-psychology
+period: 1935
+key_concepts:
+- aristotelian-vs-galileian-mode-of-thought
+- constructive-method
+- psychological-conflict
+- substitute-activity
+- substitute-value
+- reward-and-punishment
+- feeble-mindedness
+- child-behavior
+- environmental-forces
+- education-for-reality
+- structure-of-the-mind
+- experimental-investigation
+key_figures:
+- Kurt Lewin
+- Donald K. Adams
+- Karl E. Zener
+chapter_outline:
+- title: Translators' Preface
+  line_range:
+  - 62
+  - 110
+  summary: A brief explanation of how these papers were selected and translated, and Lewin's place in contemporary psychology.
+- title: Table of Contents
+  line_range:
+  - 230
+  - 339
+  summary: Full table of contents listing 8 chapters.
+- title: 'Chapter I: The Conflict between Aristotelian and Galileian Modes of Thought in Contemporary Psychology'
+  line_range:
+  - 340
+  - 2341
+  summary: Lewin's foundational methodological critique—psychology must shift from Aristotelian classification to Galileian constructive concepts.
+- title: 'Chapter II: On the Structure of the Mind'
+  line_range:
+  - 2342
+  - 3442
+  summary: A topological analysis of the structure of the mind—differentiation, systems, and dynamic interrelations.
+- title: 'Chapter III: Environmental Forces in Child Behavior and Development'
+  line_range:
+  - 3443
+  - 5807
+  summary: How environmental forces (field theory) shape child behavior and developmental trajectories.
+- title: 'Chapter IV: The Psychological Situations of Reward and Punishment'
+  line_range:
+  - 5808
+  - 8761
+  summary: Experimental and theoretical analysis of reward and punishment as psychological force fields.
+- title: 'Chapter V: Education for Reality'
+  line_range:
+  - 8762
+  - 9142
+  summary: The role of reality constraints in psychological development and education.
+- title: 'Chapter VI: Substitute Activity and Substitute Value'
+  line_range:
+  - 9143
+  - 9886
+  summary: The phenomenon of substitute satisfaction—when one activity can replace another in satisfying a need.
+- title: 'Chapter VII: A Dynamic Theory of the Feeble-Minded'
+  line_range:
+  - 9887
+  - 12201
+  summary: Lewin applies field theory to understanding feeble-mindedness as a dynamic problem of psychological system structure.
+- title: 'Chapter VIII: Survey of the Experimental Investigations'
+  line_range:
+  - 12202
+  - 15369
+  summary: Overview of experimental studies conducted within Lewin's field-theoretical framework.
+- title: Indexes
+  line_range:
+  - 15370
+  - 16418
+  summary: Name index and subject index.
+digestion_status: pending
+worldline: α₁
+total_lines: 16418
+subdirectory: psychoanalysis
+source_file: reference/psychoanalysis/a-dynamic-theory-of-personality.md
+status: acquired
