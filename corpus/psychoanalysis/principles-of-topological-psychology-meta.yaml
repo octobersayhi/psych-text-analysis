@@ -1,0 +1,164 @@
+---
+id: principles-of-topological-psychology
+title: 'Principles of Topological Psychology'
+author: Kurt Lewin
+domain:
+- gestalt-psychology
+- topological-psychology
+- field-theory
+- social-psychology
+- general-psychology
+period: 1936
+key_concepts:
+- life-space
+- field-theory
+- topological-psychology
+- vector-psychology
+- psychological-regions
+- locomotion
+- boundaries
+- structural-change
+- person-environment-dynamics
+- contemporaneity-principle
+- concreteness-principle
+- quasi-physical-facts
+- quasi-social-facts
+- quasi-conceptual-facts
+- hodological-space
+- differentiation
+- constructive-method
+- galileian-mode-of-thought
+key_figures:
+- Kurt Lewin
+- Wolfgang Köhler
+- Fritz Heider
+- Tamara Dembo
+- Kurt Koffka
+- Max Wertheimer
+chapter_outline:
+- title: Preface (Letter to Wolfgang Köhler)
+  line_range:
+  - 138
+  - 385
+  summary: Lewin traces the development of topological psychology from its origins at the Berlin Psychological Institute.
+- title: Table of Contents
+  line_range:
+  - 386
+  - 742
+  summary: Full table of contents for the volume.
+- title: 'Part I: The Task of Psychology and the Foundations of Topological and Vector Psychology'
+  line_range:
+  - 743
+  - 4860
+  summary: 'Chapters I–IX. The theoretical and methodological foundations—life space, field theory, constructive method, Galileian mode of thought.'
+- title: 'Chapter I: Introduction: The Present State of Psychology'
+  line_range:
+  - 779
+  - 1009
+  summary: Critique of Aristotelian vs. Galileian modes of thought in psychology; the need for constructive concepts.
+- title: 'Chapter II: Formulation of Law and Representation of Situation'
+  line_range:
+  - 1010
+  - 1427
+  summary: Law and individual case; constructive representation of the situation; person and environment as life space.
+- title: 'Chapter III: General Considerations about Representing Life Space'
+  line_range:
+  - 1428
+  - 1610
+  summary: The life space as the totality of facts determining behavior; B = f(S) as fundamental equation.
+- title: 'Chapter IV: Content and Extent of the Psychological Life Space'
+  line_range:
+  - 1611
+  - 2180
+  summary: Principle of concreteness; physical, social, and conceptual facts; temporal and reality-irreality dimensions.
+- title: 'Chapter V: Causal Interconnections in Psychology'
+  line_range:
+  - 2181
+  - 2723
+  summary: The principle of contemporaneity; historical vs. systematic causation; role of past and future.
+- title: 'Chapter VI: The Psychological Life Space as Space in the Sense of Mathematics'
+  line_range:
+  - 2724
+  - 3560
+  summary: Formal properties of life space as mathematical space; connectedness, dimensionality, ordering.
+- title: 'Chapter VII: Psychological Space and Psychological Dynamics'
+  line_range:
+  - 3561
+  - 3898
+  summary: Dynamic concepts—force, tension, need—and their relation to topological structure.
+- title: 'Chapter VIII: The Psychological Worlds and the Physical World'
+  line_range:
+  - 3899
+  - 4378
+  summary: The relation between psychological and physical reality; boundary between psychological and non-psychological.
+- title: 'Chapter IX: Mathematical Representation and Psychological Theory'
+  line_range:
+  - 4379
+  - 4860
+  summary: The role of mathematics in psychological theory; concept, picture, and symbol; physiological theories.
+- title: 'Part II: Topological Psychology'
+  line_range:
+  - 4861
+  - 12987
+  summary: 'Chapters X–XVIII + Indexes. The formal topological framework—regions, boundaries, structural change, person topology, and life space dimensions.'
+- title: 'Chapter X: Concepts of Topology Fundamental for Psychology'
+  line_range:
+  - 4926
+  - 5233
+  summary: Introduction to topological concepts—region, connectedness, Jordan curve, boundary, path.
+- title: 'Chapter XI: Psychological Regions, Locomotions, and Communications'
+  line_range:
+  - 5234
+  - 6407
+  summary: Psychological regions, locomotion as change of position, communication between regions, accessibility.
+- title: 'Chapter XII: Boundaries of Psychological Regions'
+  line_range:
+  - 6408
+  - 7285
+  summary: Boundary properties, permeability, boundary zones, and their dynamic significance.
+- title: 'Chapter XIII: The Relative Position of Two Regions'
+  line_range:
+  - 7286
+  - 8172
+  summary: Part-whole relationships, overlapping regions, foreign regions, and position topology.
+- title: 'Chapter XIV: Structural Changes'
+  line_range:
+  - 8173
+  - 8522
+  summary: Restructuring of the life space—differentiation, dedifferentiation, and reorganization.
+- title: 'Chapter XV: The Life Space as Finitely Structured Space'
+  line_range:
+  - 8523
+  - 8641
+  summary: The life space as a finitely structured manifold; the principle of finite structure.
+- title: 'Chapter XVI: The Person as a Differentiated Region in the Life Space'
+  line_range:
+  - 8642
+  - 8728
+  summary: The person as a differentiated subregion; inner-personal regions, motor-perceptual stratum.
+- title: 'Chapter XVII: Fundamental Concepts and Coordinating Definitions for the Representation of the Person'
+  line_range:
+  - 8729
+  - 10242
+  summary: Systematic framework for representing the person—needs, tensions, and dynamic structure.
+- title: 'Chapter XVIII: The Dimensions of the Life Space'
+  line_range:
+  - 10243
+  - 11582
+  summary: The reality-irreality dimension, time perspective, and the dimensionality of psychological space.
+- title: Author Index
+  line_range:
+  - 11583
+  - 11786
+  summary: Alphabetical author index.
+- title: Subject Index
+  line_range:
+  - 11787
+  - 12987
+  summary: Alphabetical subject index.
+digestion_status: pending
+worldline: α₁
+total_lines: 12987
+subdirectory: psychoanalysis
+source_file: reference/psychoanalysis/principles-of-topological-psychology.md
+status: acquired

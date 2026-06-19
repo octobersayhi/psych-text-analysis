@@ -72,11 +72,13 @@ Phase 6: 三層整合跨學派比較    ⬜ problem_domain→event→segment 穿
 
 ### 各 Phase 詳情
 
-#### Phase 0：源數據準備 ✅
+#### Phase 0：源數據準備 🔄 擴充中
 
 - [x] Vygotsky 全集 7 冊（含結構化 YAML meta）
 - [x] 精神分析經典 5 冊（含結構化 YAML meta）
 - [x] 每冊含 `key_concepts`、`key_figures`、`chapter_outline`（行號範圍）
+- [x] **橋樑人物 Kurt Lewin：** Principles of Topological Psychology (1936) — 2026-06-19 新增
+- [ ] 橋樑人物待補：Piaget, Pavlov, Bekhterev, Bühler 等
 
 #### Phase 1：結構化索引 + 維度標記（下一步）
 
@@ -138,7 +140,7 @@ Phase 6: 三層整合跨學派比較    ⬜ problem_domain→event→segment 穿
 | 模組 | 狀態 | 說明 |
 |------|:---:|------|
 | corpus/vygotsky | ✅ | 7 冊完整 |
-| corpus/psychoanalysis | ✅ | 5 冊完整 |
+| corpus/psychoanalysis | ✅ | **6 冊（擴充中，含橋樑人物 Kurt Lewin）** |
 | system-template/scripts | ✅ | 4 個腳本就位 |
 | SCHEMA.md | ✅ | v0.2（含三層 Schema + D1–D10 維度） |
 | GENERAL-PRINCIPLES.md | ✅ | v0.1（19 原則） |

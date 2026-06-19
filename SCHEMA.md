@@ -98,9 +98,10 @@
 
 `inner_speech` `egocentric_speech` `zone_of_proximal_development` `higher_mental_functions` `mediation_by_signs` `scientific_concepts` `spontaneous_concepts` `psychological_systems` `subtext` `consciousness` `volition` `functional_systems` `instrumental_act` `intermental_to_intramental` `defectology` `child_development` `word_meaning` `sense_vs_meaning` `internalization` `semiotic_mediation` `cultural-historical_theory`
 
-### 精神分析系
+### 精神分析系（含橋樑人物）
 
 `destruction_as_cause_of_becoming` `reproductive_drive` `death_drive` `libido` `unconscious` `transference` `countertransference` `oedipus_complex` `castration_anxiety` `penis_envy` `object_relations` `schizophrenia` `dementia_praecox` `psychoanalytic_case_study` `free_association` `dream_interpretation` `resistance` `repression` `sublimation` `infantile_sexuality` `psychosexual_development` `narcissism` `melancholia`
+`life_space` `field_theory` `topological_psychology` `vector_psychology` `hodological_space` `psychological_regions` `locomotion` `boundaries` `structural_change` `person_environment_dynamics` `contemporaneity_principle` `concreteness_principle` `constructive_method` `galileian_mode_of_thought` `quasi_physical_facts` `quasi_social_facts` `quasi_conceptual_facts`
 
 ### 跨學派橋接概念
 
