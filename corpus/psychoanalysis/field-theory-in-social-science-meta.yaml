@@ -19,20 +19,24 @@ key_concepts:
 - leadership-styles
 - group-decision
 - cultural-change
+- feedback
+- social-climate
+- change-process
 key_figures:
 - Kurt Lewin
 - Dorwin Cartwright
 - Ronald Lippitt
 - John R. P. French
+- Leon Festinger
 chapter_outline:
 - title: Entire Work
   line_range:
-  - 1
-  - 30
-  summary: '**掃描版 PDF，待 OCR 處理。** 本書為 Lewin 晚期社會心理學論文集，含 field theory 的系統性陳述、group dynamics、action research 等經典篇章。'
+  - 26
+  - 41879
+  summary: Selected theoretical papers on field theory, group dynamics, and action research by Kurt Lewin, edited by Dorwin Cartwright. (41979 lines total, auto-extracted from text PDF)
 digestion_status: pending
 worldline: α₁
-total_lines: 30
+total_lines: 41879
 subdirectory: psychoanalysis
 source_file: reference/psychoanalysis/field-theory-in-social-science.md
 status: acquired
