@@ -1,0 +1,36 @@
+---
+id: gestalt-psychology-kohler
+title: 'Gestalt Psychology'
+author: Wolfgang Köhler
+domain:
+- gestalt-psychology
+- perception
+- cognitive-psychology
+- experimental-psychology
+period: 1930
+key_concepts:
+- gestalt-perception
+- isomorphism
+- insight
+- learning-theory
+- figure-ground
+- wholes-and-parts
+- psychophysical-isomorphism
+- phi-phenomenon
+- perceptual-organization
+key_figures:
+- Wolfgang Köhler
+- Max Wertheimer
+- Kurt Koffka
+chapter_outline:
+- title: Entire Work
+  line_range:
+  - 26
+  - 15588
+  summary: Köhler's systematic presentation of Gestalt psychology—perception, isomorphism, learning, and the critique of atomistic psychology. (15588 lines, auto-extracted from text PDF)
+digestion_status: pending
+worldline: α₁
+total_lines: 15588
+subdirectory: psychoanalysis
+source_file: reference/psychoanalysis/gestalt-psychology-kohler.md
+status: acquired

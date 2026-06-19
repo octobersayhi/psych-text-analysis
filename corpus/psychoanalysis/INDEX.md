@@ -21,10 +21,11 @@
 | 12 | `play-dreams-and-imitation-in-childhood.md` | Play, Dreams and Imitation in Childhood | Jean Piaget | 1945 |
 | 13 | `the-moral-judgment-of-the-child.md` | The Moral Judgment of the Child | Jean Piaget | 1932 |
 | 14 | `the-mentality-of-apes.md` | The Mentality of Apes | Wolfgang Köhler | 1925 |
+| 15 | `gestalt-psychology-kohler.md` | Gestalt Psychology | Wolfgang Köhler | 1930 |
 
 ## 核心概念覆蓋
 
-`destruction_as_cause_of_becoming` `reproductive_drive` `schizophrenia_dementia_praecox` `psychoanalytic_case_study` `object_relations_theory` `child_psychology` `symbolism` `triangular_relationship_spielrein_freud_jung` `psychoanalysis_in_russia` `bolshevism_and_psychoanalysis` `women_in_psychoanalysis` `ipa_history` `sociology_and_psychoanalysis` `psychosocial` `life_space` `field_theory` `topological_psychology` `vector_psychology` `hodological_space` `person_environment_dynamics` `constructive_method` `galileian_mode_of_thought` `psychological_conflict` `substitute_activity` `reward_and_punishment` `group_dynamics` `action_research` `egocentric_speech` `child_logic` `cognitive_development` `moral_judgment` `imitation` `play_and_dreams` `symbolism_piaget` `insight_learning` `tool_use` `chimpanzee_cognition` `practical_intellect`
+`destruction_as_cause_of_becoming` `reproductive_drive` `schizophrenia_dementia_praecox` `psychoanalytic_case_study` `object_relations_theory` `child_psychology` `symbolism` `triangular_relationship_spielrein_freud_jung` `psychoanalysis_in_russia` `bolshevism_and_psychoanalysis` `women_in_psychoanalysis` `ipa_history` `sociology_and_psychoanalysis` `psychosocial` `life_space` `field_theory` `topological_psychology` `vector_psychology` `hodological_space` `person_environment_dynamics` `constructive_method` `galileian_mode_of_thought` `psychological_conflict` `substitute_activity` `reward_and_punishment` `group_dynamics` `action_research` `egocentric_speech` `child_logic` `cognitive_development` `moral_judgment` `imitation` `play_and_dreams` `symbolism_piaget` `insight_learning` `tool_use` `chimpanzee_cognition` `practical_intellect` `gestalt_perception` `isomorphism` `perceptual_organization` `phi_phenomenon`
 
 ## 核心人物
 
